@@ -6,12 +6,18 @@
 
 # **Publications Boas Pucker**
 
+### 2021
+
+Frey, K., Weisshaar, B. and **Pucker, B.** (2021). Reference-based QUantification Of gene Dispensability (QUOD). Plant Methods 17, 18. doi:[10.1186/s13007-021-00718-5](https://doi.org/10.1186/s13007-021-00718-5).
+
+
+Xu B., Taylor L., **Pucker B.**, Feng T., Glover B. J. and Brockington S. (2021). The land plant-specific MIXTA-MYB lineage is implicated in the early evolution of the plant cuticle and the colonization of land. New Phytologist. doi:[10.1111/nph.16997](https://doi.org/10.1111/nph.16997).
+
+
 
 ## 2020
 
 **Pucker B.**, Schwandner A., Becker S., Hausmann L., Viehöver P., Töpfer R., Weisshaar B., Holtgräwe D. (2020). RNA-Seq Time Series of Vitis vinifera Bud Development Reveals Correlation of Expression Patterns with the Local Temperature Profile. Plants 2020, 9(11), 1548; doi:[10.3390/plants9111548](https://www.mdpi.com/2223-7747/9/11/1548/htm).
-
-Xu B., Taylor L., **Pucker B.**, Feng T., Glover B. J. and Brockington S. (2020). The land plant-specific MIXTA-MYB lineage is implicated in the early evolution of the plant cuticle and the colonization of land. New Phytologist. doi:[10.1111/nph.16997](https://doi.org/10.1111/nph.16997).
 
 **Pucker B.** and Brockington S. (2020). Pitaya transcriptome assemblies and investigation of transcript abundances. Bielefeld University. doi: [10.4119/unibi/2946374](https://pub.uni-bielefeld.de/record/2946374).
 
@@ -21,9 +27,6 @@ Xu B., Taylor L., **Pucker B.**, Feng T., Glover B. J. and Brockington S. (2020)
 
 
 Choi, J., Lee, T., Cho, J., Servante, E., **Pucker, B.**, Summers, W., et al. The negative regulator SMAX1 controls mycorrhizal symbiosis and strigolactone biosynthesis in rice. Nature Communications 11, 2114 (2020). doi:[10.1038/s41467-020-16021-1](https://www.nature.com/articles/s41467-020-16021-1).
-
-
-Frey, K., Weisshaar, B. and **Pucker, B.** (2020). Reference-based QUantification Of gene Dispensability (QUOD). bioRxiv. doi:[10.1101/2020.04.28.065714](https://doi.org/10.1101/2020.04.28.065714).
 
 
 Schilbert H. M., Rempel A. and **Pucker, B.** (2020). Comparison of read mapping and variant calling tools for the analysis of plant NGS data. Plants. doi:[10.3390/plants9040439](https://www.mdpi.com/2223-7747/9/4/439).
