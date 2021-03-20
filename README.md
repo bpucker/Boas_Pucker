@@ -564,7 +564,6 @@ Here is a list of my courses with links to slides and data sets:
 <li>Applied Python Programming for Life Scientists<br>
 <a href="https://pub.uni-bielefeld.de/download/2920633/2920815">Paper</a>, 
 <a href="https://github.com/bpucker/APPLS">github</a>
-<p style="color:green"><b>Next course: March 2020</b> <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=186022250">ekVV</a> given by <a href="https://www.cebitec.uni-bielefeld.de/~hschilbe">Hanna</a></p>
 </li>
 <li>Applied Genome Research<br>
 <a href="https://doi.org/10.1515/jib-2019-0005">Paper</a>,
