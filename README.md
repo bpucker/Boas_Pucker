@@ -23,7 +23,7 @@
 <li>Publons: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a></li>
 <li>ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a></li>
 <li>Twitter: <a href="https://twitter.com/boas_pucker">@boas_pucker</a>
-<a href="https://twitter.com/boas_pucker?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-lang="en" data-show-count="false">Follow @boas_pucker</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </li>
 <li>Github: <a href="https://github.com/bpucker">bpucker</a></li>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/boas-pucker-80aaa411b/">Boas Pucker</a></li>
