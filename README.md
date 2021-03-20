@@ -3,6 +3,7 @@
 - <a href="https://github.com/bpucker/Boas_Pucker#awards-funding-and-scholarships"><b>Funding</b></a>
 - <a href="https://github.com/bpucker/Boas_Pucker#research-interests"><b>Research Interests</b></a>
 - <a href="https://github.com/bpucker/Boas_Pucker#cv"><b>CV</b></a>
+- <a href="https://github.com/bpucker/Boas_Pucker#editor-activity"><b>Editor/Reviewer</b></a>
 </p>
 
 
@@ -630,20 +631,14 @@ I was involved in
 
 <h4 id="Editor">Editor Activity</h4>
 <ul>
-<li>
-<p>
-I am a member of the Editorial Board of 
-<a href="https://bmcgenomics.biomedcentral.com/about/editorial-board">BMC Genomics</a>
- (<i>Plant Genomics</i> section).
-</p>
-</li>
-<li>
-<p>
-Currently, I am a guest editor for a special issue about 
+<li><p>
+Member of the Editorial Board of <a href="https://bmcgenomics.biomedcentral.com/about/editorial-board">BMC Genomics</a> (<i>Plant Genomics</i> section).
+</p></li>
+<li><p>
+Guest editor for a special issue about 
 <a href="https://www.mdpi.com/journal/plants/special_issues/Harnessing_Power_Genome">Harnessing the Power of Genome and Transcriptome Assemblies</a>
  in Plants. This Special Issue is open to all research articles providing new insights into the biology of plants based on genome or transcriptome assemblies.
-</p>
-</li>
+</p></li>
 </ul>
 
 <br>
