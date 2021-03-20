@@ -5,7 +5,7 @@
 - <a href="https://github.com/bpucker/Boas_Pucker#cv"><b>CV</b></a>
 - <a href="https://github.com/bpucker/Boas_Pucker#editor-activity"><b>Editor/Reviewer</b></a>
 - <a href="https://github.com/bpucker/Boas_Pucker#teaching"><b>Teaching</b></a>
-- <a href=""><b>Science Communication</b></a>
+- <a href="https://github.com/bpucker/Boas_Pucker#science-communication"><b>Science Communication</b></a>
 </p>
 
 
