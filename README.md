@@ -1,8 +1,8 @@
 <p>
-<a href="https://www.cebitec.uni-bielefeld.de/~bpucker#publications"><b>Publications</b></a> 
-- <a href="https://www.cebitec.uni-bielefeld.de/~bpucker#funding"><b>Funding</b></a>
-- <a href="https://www.cebitec.uni-bielefeld.de/~bpucker#research_interests"><b>Research Interests</b></a>
-- <a href="https://www.cebitec.uni-bielefeld.de/~bpucker#CV"><b>CV</b></a>
+<a href="https://github.com/bpucker/Boas_Pucker#publications"><b>Publications</b></a> 
+- <a href="https://github.com/bpucker/Boas_Pucker#awards-funding-and-scholarships"><b>Funding</b></a>
+- <a href="https://github.com/bpucker/Boas_Pucker#research-interests"><b>Research Interests</b></a>
+- <a href="https://github.com/bpucker/Boas_Pucker#cv"><b>CV</b></a>
 </p>
 
 
