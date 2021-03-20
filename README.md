@@ -4,6 +4,8 @@
 - <a href="https://github.com/bpucker/Boas_Pucker#research-interests"><b>Research Interests</b></a>
 - <a href="https://github.com/bpucker/Boas_Pucker#cv"><b>CV</b></a>
 - <a href="https://github.com/bpucker/Boas_Pucker#editor-activity"><b>Editor/Reviewer</b></a>
+- <a href="https://github.com/bpucker/Boas_Pucker#teaching"><b>Teaching</b></a>
+- <a href=""><b>Science Communication</b></a>
 </p>
 
 
@@ -679,4 +681,14 @@ Guest editor for a special issue about
 <li>Deutsche Botanische Gesellschaft (<a href="https://www.deutsche-botanische-gesellschaft.de/">DBG</a>)</li>
 <li>European Society of Evolutionary Biology (<a href="https://eseb.org/">ESEB</a>)</li>
 </ul>
+
+
+
+<br><br>
+<h3 id="scicomm">Science Communication</h3>
+<ul>
+<li><a href="https://github.com/bpucker/FlavonoidFriday">FlavonoidFriday</a></li>
+<li><a href="https://github.com/bpucker/MybMonday">MybMonday</a></li>
+</ul>
+
 
