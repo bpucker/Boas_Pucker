@@ -29,9 +29,9 @@
 <li>LinkedIn: <a href="https://www.linkedin.com/in/boas-pucker-80aaa411b/">Boas Pucker</a></li>
 </ul>
 
-<p style="color:green"><b>Collaborations</b>: I am always interested in collaborations involving genomics or bioinformatic analyses. Please send me an email.</p>
-<p style="color:green"><b>Reviews</b>: Review requests from high quality open access journals are welcome if they match 
-<a href="https://www.cebitec.uni-bielefeld.de/~bpucker#research_interests" style="color:green">my expertise</a>.
+<p><b>Collaborations</b>: I am always interested in collaborations involving genomics or bioinformatic analyses. Please send me an email.</p>
+<p><b>Reviews</b>: Review requests from high quality open access journals are welcome if they match 
+<a href="https://github.com/bpucker/Boas_Pucker#research-interests">my expertise</a>.
 </p>
 
 <h3 id="DFGproject">Current project (DFG fellowship)</h3>
@@ -489,16 +489,16 @@ in <a href="https://www.plantsci.cam.ac.uk/research/sambrockington">Evolution an
 <br>
 
 
-<h4 id="evolution">Evolution</h4>
+<h4 id="evolution">Evolution of Specialized Metabolism</h4>
 <ul>
-<li>Evolution of the <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <b>flavonoid</b> biosynthesis</li>
+<li>Evolution of the <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm"><b>flavonoid</b></a> biosynthesis</li>
 <li>Genome evolution</li>
-<li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family (<i>Beta vulgaris</i> and <i>Musa acuminata</i>)</li>
+<li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family</li>
 </ul>
 
 <br>
 
-<h4 id="plantscpecies">Studied Plant Species</h4>
+<h4 id="plantspecies">Studied Plant Species</h4>
 <p>
 	<i>Arabidopsis thaliana</i>, 
 	<i>Arabidopsis halleri</i>, 
@@ -538,7 +538,7 @@ Read the <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">publication</a> o
 Read the <a href="https://www.biorxiv.org/content/10.1101/596718v2.full">preprint</a> or download NAVIP from <a href="https://github.com/bpucker/NAVIP">github</a>.
 </li>
 <li>
-Most of my scripts are publicly available at github: <a href="https://github.com/bpucker">bpucker</a>.
+Most of my scripts are publicly available on github: <a href="https://github.com/bpucker">bpucker</a>.
 </li>
 
 </ul>
@@ -629,18 +629,22 @@ I was involved in
 <br>
 
 <h4 id="Editor">Editor Activity</h4>
+<ul>
+<li>
 <p>
 I am a member of the Editorial Board of 
 <a href="https://bmcgenomics.biomedcentral.com/about/editorial-board">BMC Genomics</a>
  (<i>Plant Genomics</i> section).
 </p>
-
+</li>
+<li>
 <p>
 Currently, I am a guest editor for a special issue about 
 <a href="https://www.mdpi.com/journal/plants/special_issues/Harnessing_Power_Genome">Harnessing the Power of Genome and Transcriptome Assemblies</a>
  in Plants. This Special Issue is open to all research articles providing new insights into the biology of plants based on genome or transcriptome assemblies.
 </p>
-
+</li>
+</ul>
 
 <br>
 
