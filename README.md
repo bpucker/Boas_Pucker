@@ -14,9 +14,9 @@
 
 <ul>
 <li>groups:<br>
-<a href="https://www.genomforschung.uni-bielefeld.de/en/">Genetics & Genomics of Plants</a> (Bielefeld University, Germany)<br>
+<a href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/">Genetics & Genomics of Plants</a> (Bielefeld University, Germany)<br>
 <a href="https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html">Molecular Genetics and Physiology of Plants</a> (Ruhr University Bochum, Germany)<br>
-<a href="https://www.plantsci.cam.ac.uk/research/sambrockington">Evolution and Diversity</a> (Department of Plant Sciences, University of Cambridge, UK)
+<a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a> (Department of Plant Sciences, University of Cambridge, UK)
 </li>
 <li>email: bpucker{a}cebitec{dot}uni-bielefeld.de, boas.pucker{a}rub.de, bp423{a}cam.ac{dot}uk</li>
 <li>Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a></li>
