@@ -8,9 +8,8 @@
 
 
 <h1>Dr. Boas Pucker</h1>
-<figure>
-	<img src="https://www.cebitec.uni-bielefeld.de/~bpucker/BP.jpg" alt="foto" style="width:20%">
-</figure> 
+<img src="https://www.cebitec.uni-bielefeld.de/~bpucker/BP.jpg" alt="foto" width="20%" height="20%">
+
 
 
 <ul>
