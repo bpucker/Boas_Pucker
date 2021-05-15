@@ -37,6 +37,11 @@
 <a href="https://github.com/bpucker/Boas_Pucker#research-interests">my expertise</a>.
 </p>
 
+Do you have an exciting project to discus - book a meeting:
+[15 min meeting](https://calendly.com/bpucker/15min)
+Please do not share any confidential data through Calendly and assume that the shared information might be used by third parties.
+
+
 <h3 id="DFGproject">Current project (DFG fellowship)</h3>
 <p>Investigation of the <a href="https://gepris.dfg.de/gepris/projekt/436841671?language=en"><b>betalain pathway evolution</b></a> with Dr. Samuel Brockington
 at the Department of Plant Sciences (University of Cambridge, UK): 
