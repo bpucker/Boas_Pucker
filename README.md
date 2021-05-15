@@ -38,7 +38,7 @@
 </p>
 
 <h3 id="meetings">Automatic Meeting Scheduling</h3>
-<p>Do you have an exciting project to discus - book a meeting:
+<p>Do you have an exciting project to discuss - book a meeting:
 
 [15 min meeting](https://calendly.com/bpucker/15min)
 
