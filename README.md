@@ -56,6 +56,15 @@ at the Department of Plant Sciences (University of Cambridge, UK):
 <ul>
 
 
+<li>Montero, H., Lee, T., <b>Pucker, B.</b>, Ferreras-Garrucho, G., Oldroyd, G., Brockington, S.F., Miyao, A. and Paszkowski, U.  
+A mycorrhiza-associated receptor-like kinase with an ancient origin in the green lineage. 
+PNAS (2021). doi:10.1073/pnas.2105281118<br>
+<a href="https://www.pnas.org/content/118/25/e2105281118">full text<font color="green">(peer-reviewed)</font></a>
+<a href="https://www.pnas.org/content/pnas/118/25/e2105281118.full.pdf">PDF</a>
+</li>
+
+	
+	
 <li>Naik, J., Rajput, R., <b>Pucker, B.</b>, Stracke, R. and Pandey, A. 
 The R2R3-MYB transcription factor MtMYB134 orchestrates flavonol biosynthesis in Medicago truncatula. 
 Plant Mol Biol (2021). doi:10.1007/s11103-021-01135-x<br>
