@@ -55,6 +55,15 @@ at the Department of Plant Sciences (University of Cambridge, UK):
 <h3 id="publications">Publications</h3>
 <ul>
 
+<li><b>Pucker B.</b>, Singh H.B., Kumari M., Khan M.I., Brockington S.F. (2021)
+The report of anthocyanins in the betalain-pigmented genus <i>Hylocereus</i> is not well evidenced and is not a strong basis to refute the mutual exclusion paradigm.
+BMC Plant Biology 21(1): 297. <br>
+<a href="https://doi.org/10.1186/s12870-021-03080-9">full text</a>
+<a href="https://bmcplantbiol.biomedcentral.com/track/pdf/10.1186/s12870-021-03080-9.pdf">PDF</a>
+<a href="https://pub.uni-bielefeld.de/record/2955954">PUB</a>
+<a href="https://pub.uni-bielefeld.de/record/2946374">data</a>
+<br>
+</li>
 
 
 <li>Montero, H., Lee, T., <b>Pucker, B.</b>, Ferreras-Garrucho, G., Oldroyd, G., Brockington, S.F., Miyao, A. and Paszkowski, U.  
