@@ -19,10 +19,10 @@
 <li>groups:<br>
 <a href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/">Genetics & Genomics of Plants</a> (Bielefeld University, Germany)<br>
 <a href="https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html">Molecular Genetics and Physiology of Plants</a> (Ruhr University Bochum, Germany)<br>
-<a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a> (Department of Plant Sciences, University of Cambridge, UK)
+<a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a> (Department of Plant Sciences, University of Cambridge, UK)<br>
 <a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology, TU Braunschweig, Germany)
 </li>
-<li>email: bpucker{a}cebitec{dot}uni-bielefeld.de, boas.pucker{a}rub.de, bp423{a}cam.ac{dot}uk</li>
+<li>email: b.pucker{a}tu-braunschweig.de,bpucker{a}cebitec{dot}uni-bielefeld.de, bp423{a}cam.ac{dot}uk</li>
 <li>Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a></li>
 <li>Publons: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a></li>
 <li>ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a></li>
