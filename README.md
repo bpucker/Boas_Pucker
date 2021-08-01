@@ -22,7 +22,7 @@
 <a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a> (Department of Plant Sciences, University of Cambridge, UK)<br>
 <a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology, TU Braunschweig, Germany)
 </li>
-<li>email: b.pucker{a}tu-braunschweig.de,bpucker{a}cebitec{dot}uni-bielefeld.de, bp423{a}cam.ac{dot}uk</li>
+<li>email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de, bp423{a}cam.ac{dot}uk</li>
 <li>Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a></li>
 <li>Publons: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a></li>
 <li>ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a></li>
@@ -38,13 +38,7 @@
 <a href="https://github.com/bpucker/Boas_Pucker#research-interests">my expertise</a>.
 </p>
 
-<h3 id="meetings">Automatic Meeting Scheduling</h3>
-<p>Do you have an exciting project to discuss - book a meeting:
 
-[15 min meeting](https://calendly.com/bpucker/15min)
-
-Please do not share any confidential data through Calendly and assume that the shared information might be used by third parties.
-</p>
 
 <h3 id="DFGproject">Current project (DFG fellowship)</h3>
 <p>Investigation of the <a href="https://gepris.dfg.de/gepris/projekt/436841671?language=en"><b>betalain pathway evolution</b></a> with Dr. Samuel Brockington
