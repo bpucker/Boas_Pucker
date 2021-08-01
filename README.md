@@ -663,6 +663,9 @@ Guest editor for a special issue about
 <a href="https://www.mdpi.com/journal/plants/special_issues/Harnessing_Power_Genome">Harnessing the Power of Genome and Transcriptome Assemblies</a>
  in Plants. This Special Issue is open to all research articles providing new insights into the biology of plants based on genome or transcriptome assemblies.
 </p></li>
+<li><p>
+Associate Editor at <a href="https://loop.frontiersin.org/people/456636/overview">Frontiers</a>.
+</p></li>	
 </ul>
 
 <br>
