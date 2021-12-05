@@ -40,7 +40,7 @@
 
 
 
-<h3 id="DFGproject">Current project (DFG fellowship)</h3>
+<h3 id="DFGproject">Former project (DFG fellowship)</h3>
 <p>Investigation of the <a href="https://gepris.dfg.de/gepris/projekt/436841671?language=en"><b>betalain pathway evolution</b></a> with Dr. Samuel Brockington
 at the Department of Plant Sciences (University of Cambridge, UK): 
 <a href="https://www.plantsci.cam.ac.uk/directory/pucker-boas">Boas Pucker (Plant Sciences)</font></a>
