@@ -22,7 +22,7 @@
 <a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a> (Department of Plant Sciences, University of Cambridge, UK)<br>
 <a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology, TU Braunschweig, Germany)
 </li>
-<li>email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de, bp423{a}cam.ac{dot}uk</li>
+<li>email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de</li>
 <li>Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a></li>
 <li>Publons: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a></li>
 <li>ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a></li>
@@ -49,6 +49,63 @@ at the Department of Plant Sciences (University of Cambridge, UK):
 
 <h3 id="publications">Publications</h3>
 <ul>
+
+<li>
+<b>Pucker B</b> & Brockington S F (2021). The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak. 
+bioRxiv 2021.11.16.468878; doi: https://doi.org/10.1101/2021.11.16.468878. <br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.11.16.468878v1.full">full text</a>
+<a href="https://www.biorxiv.org/content/10.1101/2021.11.16.468878v1.full.pdf">PDF</a>
+</li>
+
+<li>
+<b>Pucker B</b> (2021). Automatic identification and annotation of MYB gene family members in plants. 
+bioRxiv 2021.10.16.464636; doi: https://doi.org/10.1101/2021.10.16.464636 <br>
+<a href="https://doi.org/10.1101/2021.10.16.464636">full text</a>
+<a href="https://www.biorxiv.org/content/10.1101/2021.10.16.464636v1.full.pdf">PDF</a>
+</li>
+
+<li>
+Sielemann K, <b>Pucker B</b>, Schmidt N, Viehoever P, Weisshaar B, Heitkam T, Holtgraewe D (2021). 
+Complete pan-plastome sequences enable high resolution phylogenetic classification of sugar beet and closely related crop wild relatives. 
+bioRxiv 2021.10.08.463637; doi: 10.1101/2021.10.08.463637. <br>
+<a href="https://doi.org/10.1101/2021.10.08.463637">full text</a>
+<a href="https://www.biorxiv.org/content/10.1101/2021.10.08.463637v1.full.pdf">PDF</a>
+</li>
+
+
+<li>
+Movahedi A, Wei H, <b>Pucker B</b>, Sun W, Li W, Yang L, Zhuge Q (2021). 
+Regulation of poplar isoprenoid biosynthesis by methylerythritol phosphate and mevalonic acid pathways interactions. 
+bioRxiv 2020.07.22.216804; doi: 10.1101/2020.07.22.216804. <br>
+<a href="https://doi.org/10.1101/2020.07.22.216804">full text</a>
+<a href="https://www.biorxiv.org/content/10.1101/2020.07.22.216804v3.full.pdf">PDF</a>
+</li>
+
+
+<li>Chibani K., <b>Pucker B.</b>, Dietz K.-J., Cavanagh A. (2021). Genome-wide analysis and transcriptional regulation of the typical and atypical thioredoxins in <i>Arabidopsis thaliana</i>. doi:10.1002/1873-3468.14197. <br>
+<a href="https://doi.org/10.1002/1873-3468.14197">full text</a>
+<a href="https://febs.onlinelibrary.wiley.com/doi/epdf/10.1002/1873-3468.14197">PDF</a>
+</li>
+
+
+<li>Schilbert H, Kleinb&ouml;lting N, Weisshaar B, <b>Pucker B.</b> (2021). <i>Arabidopsis thaliana</i> methylation pattern analysis based on ONT sequence reads. Bielefeld University. <br>
+<a href="https://pub.uni-bielefeld.de/record/2956654">full text</a>
+<a href="https://pub.uni-bielefeld.de/record/2956654">PUB</a>
+</li>
+
+
+<li><b>Pucker, B.</b>*, Kleinb&ouml;lting, N.* and Weisshaar, B.  (2021).  
+Large scale genomic rearrangements in selected Arabidopsis thaliana T-DNA lines are caused by T-DNA insertion mutagenesis. BMC Genomics. doi: 10.1186/s12864-021-07877-8<br>
+<a href="https://doi.org/10.1186/s12864-021-07877-8">full text</a>
+<a href="https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-021-07877-8.pdf">PDF</a>
+<a href="https://www.biorxiv.org/content/10.1101/2021.03.03.433755v3">preprint</a>
+<a href="https://pub.uni-bielefeld.de/record/2952434">PUB</a>
+<a href="https://github.com/bpucker/GKseq">github</a>
+<a href="https://github.com/nkleinbo/loreta">github</a>
+<br>
+*shared first authorship
+</li>
+
 
 <li><b>Pucker B.</b>, Singh H.B., Kumari M., Khan M.I., Brockington S.F. (2021)
 The report of anthocyanins in the betalain-pigmented genus <i>Hylocereus</i> is not well evidenced and is not a strong basis to refute the mutual exclusion paradigm.
