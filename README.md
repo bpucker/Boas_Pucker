@@ -26,11 +26,11 @@
 <li>Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a></li>
 <li>Publons: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a></li>
 <li>ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a></li>
-<li>Twitter: <a href="https://twitter.com/boas_pucker">@boas_pucker</a>
-
-</li>
+<li>Twitter: <a href="https://twitter.com/boas_pucker">@boas_pucker</a></li>
 <li>Github: <a href="https://github.com/bpucker">bpucker</a></li>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/boas-pucker-80aaa411b/">Boas Pucker</a></li>
+<li>Mastodon: <a href="https://mastodon.social/@boas_pucker">Boas Pucker</a></li>
+<li>BlueSky: <a href="https://bsky.app/profile/bpucker.bsky.social">Boas Pucker</a></li>
 </ul>
 
 <p><b>Collaborations</b>: I am always interested in collaborations involving genomics or bioinformatic analyses. Please send me an email.</p>
