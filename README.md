@@ -16,10 +16,7 @@
 
 
 <ul>
-<li>groups:<br>
-<a href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/">Genetics & Genomics of Plants</a> (Bielefeld University, Germany)<br>
-<a href="https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html">Molecular Genetics and Physiology of Plants</a> (Ruhr University Bochum, Germany)<br>
-<a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a> (Department of Plant Sciences, University of Cambridge, UK)<br>
+<li>My group:<br>
 <a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology, TU Braunschweig, Germany)
 </li>
 <li>email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de</li>
@@ -33,18 +30,12 @@
 <li>BlueSky: <a href="https://bsky.app/profile/bpucker.bsky.social">Boas Pucker</a></li>
 </ul>
 
-<p><b>Collaborations</b>: I am always interested in collaborations involving genomics or bioinformatic analyses. Please send me an email.</p>
+<p><b>Collaborations</b>: I am interested in collaborations involving genomics or bioinformatic analyses and matching the research interests of my group. Please send me an email.</p>
 <p><b>Reviews</b>: Review requests from high quality open access journals are welcome if they match 
 <a href="https://github.com/bpucker/Boas_Pucker#research-interests">my expertise</a>.
 </p>
 
 
-
-<h3 id="DFGproject">Former project (DFG fellowship)</h3>
-<p>Investigation of the <a href="https://gepris.dfg.de/gepris/projekt/436841671?language=en"><b>betalain pathway evolution</b></a> with Dr. Samuel Brockington
-at the Department of Plant Sciences (University of Cambridge, UK): 
-<a href="https://www.plantsci.cam.ac.uk/directory/pucker-boas">Boas Pucker (Plant Sciences)</font></a>
-</p>
 
 
 <h3 id="publications">Publications</h3>
@@ -683,8 +674,8 @@ I was involved in
 <h4 id="positions">Positions</h4>
 <ul>
 <li>2019-2020 <a href="https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html">Molecular Genetics and Physiology of Plants</a></li>
-<li>2018-2019 <a href="https://www.genomforschung.uni-bielefeld.de/de/">Genetics and Genomics of Plants</a>, CeBiTec & Faculty of Biology (Bielefeld University)</li>
-<li>2018 <a href="https://www.plantsci.cam.ac.uk/research/sambrockington">Evolution and Diversity</a>, 
+<li>2018-2019 <a href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/">Genetics and Genomics of Plants</a>, CeBiTec & Faculty of Biology (Bielefeld University)</li>
+<li>2018 <a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a>, 
 <a href="https://www.plantsci.cam.ac.uk/">Department of Plant Sciences</a>, 
 <a href="https://www.cam.ac.uk/">University of Cambridge</a> (UK)</a>
  funded by <a href="https://www.daad.de/en/">DAAD</a></li>
