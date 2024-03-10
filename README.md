@@ -16,8 +16,7 @@
 
 
 <ul>
-<li>My group:<br>
-<a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology, TU Braunschweig, Germany)
+<li>My group: <a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology & BRICS, TU Braunschweig, Germany)
 </li>
 <li>email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de</li>
 <li>Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a></li>
@@ -541,11 +540,11 @@ in <a href="https://www.plantsci.cam.ac.uk/research/sambrockington">Evolution an
 
 <h4 id="genome_research">Genome Research</h4>
 <ul>
-<li>high molecular weigth DNA extraction and long read sequencing (Oxford Nanopore Technologies, ONT)</li>
-<li><i>de novo</i> genome assembly and annotation</li>
-<li>comparative genomics and pangenomics</li>
-<li>read mapping, variant calling (SNVs, InDels, SVs), and variant annotation</li>
-<li>genome size and transposable elements</li>
+<li>High molecular weigth DNA extraction and long read sequencing (Oxford Nanopore Technologies, ONT)</li>
+<li><i>De novo</i> genome assembly and annotation</li>
+<li>Comparative genomics and pangenomics</li>
+<li>Read mapping, variant calling (SNVs, InDels, SVs), and variant annotation</li>
+<li>Genome size and transposable elements</li>
 </ul>
 
 
@@ -555,9 +554,8 @@ in <a href="https://www.plantsci.cam.ac.uk/research/sambrockington">Evolution an
 <h4 id="rna_seq">Transcriptomics / RNA-Seq</h4>
 <ul>
 <li><i>De novo</i> transcriptome assembly</li>
-<li>Non-canonical splice sites</li>
+<li>Co-expression analyses</li>
 <li>Differential gene expression analyses</li>
-<li>Flowering time control and berry ripening in <i>Vitis vinifera</i></li>
 </ul>
 
 <br>
@@ -565,7 +563,7 @@ in <a href="https://www.plantsci.cam.ac.uk/research/sambrockington">Evolution an
 
 <h4 id="evolution">Evolution of Specialized Metabolism</h4>
 <ul>
-<li>Evolution of the <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm"><b>flavonoid</b></a> biosynthesis</li>
+<li>Evolution of the complex pigmentation in Caryophyllales involving <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://doi.org/10.1111/nph.19341"><b>anthocyanin</b></a> biosynthesis</li>
 <li>Genome evolution</li>
 <li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family</li>
 </ul>
