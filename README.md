@@ -19,30 +19,26 @@
 
 ## Research Interests
 
-<h4 id="genome_research">Genome Research</h4>
-<ul>
-<li>High molecular weigth DNA extraction and long read sequencing (Oxford Nanopore Technologies, ONT)</li>
-<li><i>De novo</i> genome assembly and annotation</li>
-<li>Comparative genomics and pangenomics</li>
-<li>Read mapping, variant calling (SNVs, InDels, SVs), and variant annotation</li>
-<li>Genome size and transposable elements</li>
-</ul>
-
-
-<h4 id="rna_seq">Transcriptomics / RNA-Seq</h4>
-<ul>
-<li><i>De novo</i> transcriptome assembly</li>
-<li>Co-expression analyses</li>
-<li>Differential gene expression analyses</li>
-</ul>
-
-
-<h4 id="evolution">Evolution of Specialized Metabolism</h4>
+### Specialized Metabolism: flavonoid biosynthesis
 <ul>
 <li>Evolution of the complex pigmentation in Caryophyllales involving <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://doi.org/10.1111/nph.19341"><b>anthocyanin</b></a> biosynthesis</li>
 <li>Genome evolution</li>
 <li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family</li>
 </ul>
+
+
+### Plant Genomics: Long Read Sequencing
+Plant genome sequences contain the blue print for all proteins (enzymes). Sequencing and investigating genomes is an effective approach to reveal the biochemical potential of plants. Especially the correlation of genomic data (DNA) with transcriptomic (RNA) and metabolomic (chemical compounds) data sets allows the identification of biosynthesis pathways. Rapid developments of long read sequencing technologies allow the cost-effective analysis of large plant genomes. Sequencers distributed by Oxford Nanopore Technologies (ONT) are portable and can even be operated in the field. This so called nanopore sequencing approach analysis individual DNA strands. We use this technology to resolve the genome sequences of of important plant species. This is also a great opportunity for students to contribute to a genome sequencing project.
+
+
+### Applied Bioinformatics
+Specific biological questions require the development of dedicated tools. My group writes such tools mostly in Python and R. The developed tools are freely available on GitHub ([PBB-tools](https://github.com/bpucker/PBBtools)) and on our web server ([pbb-tools](https://pbb-tools.de/)). The following tools are examples of active developments:
++ KIPEs (A): Knowledge-based Identification of Pathway Enzymes allows the automatic annotation of the proteins involved in the core steps of the flavonoid biosynthesis. This supports the identification of molecular mechanisms underlying color differences between cultivars of the same species. In addition, rapid annotation of flavonoid biosynthesis genes in novel/uncharacterized species becomes convenient. Read the [KIPEs paper](https://www.mdpi.com/2223-7747/9/9/1103/htm), the [KIPEs3 paper](https://doi.org/10.1371/journal.pone.0294342) or download KIPEs from [GitHub](https://github.com/bpucker/KIPEs).
++ MGSE (B): Mapping-based Genome Size Estimation is a novel approach to infer the true genome size of a species based on sequence reads. This approach harnesses the equal representation of all regions (even repeats) in the read set. The average number of sequence reads (coverage) is estimated based on single copy regions in a reference genome sequence. Dividing the combined coverage of all positions in an assembly by this sequencing depth results in the genome size estimation. Read the [MGSE preprint](https://doi.org/10.1101/607390) or download MGSE from [GitHub](https://github.com/bpucker/MGSE).
++ NAVIP (C): Neighborhood-Aware Variant Impact Predictor enables the prediction of functional consequences arising from sequence variants between a sequenced sample and a reference. In contrast to many established tools, NAVIP considers all variants in one gene at the same time when predicting the potential effect of sequence variants. Read the [NAVIP preprint](https://doi.org/10.1101/596718 ) or download NAVIP from [GitHub](https://github.com/bpucker/NAVIP).
++ MYB_annotator (D): This tool enables the automatic identification and annotation of MYBs in a novel transcriptome/genome sequence assembly of a plant species. The identified candidates are functionally annotated based on orthology to previously characterized sequences. Read the [MYB_annotator paper](https://doi.org/10.1186/s12864-022-08452-5) or download the tool from [GitHub](https://github.com/bpucker/MYB_annotator).
++ bHLH_annotator (E): This tool enables the automatic identification and annotation of bHLHs in a novel transcriptome/genome sequence assembly of a plant species. The identified candidates are functionally annotated based on orthology to previously characterized sequences. Read the [bHLH_annotator paper](https://doi.org/10.1186/s12864-023-09877-2) or download the tool from [GitHub](https://github.com/bpucker/bHLH_annotator).
+
 
 
 Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, <i>Beta vulgaris</i>, <i>Beta coroliflora</i>, <i>Beta lomatogona</i>, <i>Brassica napus</i>, <i>Cicer arietinum</i>, <i>Croton tiglium</i>, <i>Dioscorea dumetorum</i>, <i>Kewa caespitosa</i>, <i>Macarthuria australis</i>, <i>Medicago truncatula</i>, <i>Musa acuminata</i>, <i>Pharnaceum exiguum</i>, <i>Simmondsia chinensis</i>, <i>Vitis vinifera</i> various other plant species especially members of the Caryophyllales.
@@ -64,17 +60,7 @@ Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, 
 
 
 
-<h4 id="tools">Bioinformatic Tools</h4>
-Please find a list of the bioinformatic tools developed by me or my group at our [PBB-tools](https://github.com/bpucker/PBBtools) GitHub respository. There is also a [pbb-tools](https://pbb-tools.de/) web server to run many of our tools online.
 
-+ bHLH_annotator identifies all bHLH transcription factors in a given sequence dataset. Read the [bHLH_annotator paper](https://doi.org/10.1186/s12864-023-09877-2) or download the tool from [GitHub](https://github.com/bpucker/bHLH_annotator).
-+ MYB_annotator identifies all R2R3-MYB transcription factors in a given sequence dataset. Read the [MYB_annotator paper](https://doi.org/10.1186/s12864-022-08452-5) or download the tool from [GitHub](https://github.com/bpucker/MYB_annotator).
-+ <b>KIPEs</b> (<u>K</u>nowledge-based <u>I</u>dentification of <u>P</u>athway <u>E</u>nzymes) identifies all candidates of a metabolic pathway (e.g. flavonoid biosynthesis). Read the [KIPEs paper](https://www.mdpi.com/2223-7747/9/9/1103/htm), the [KIPEs3 paper](https://doi.org/10.1371/journal.pone.0294342) or download KIPEs from [GitHub](https://github.com/bpucker/KIPEs).
-+ <b>MGSE</b> (<u>M</u>apping-based <u>G</u>enome <u>S</u>ize <u>E</u>stimator) utilizes the mapping of short reads to a long read genome assembly to estimate the genome size. Read the [MGSE preprint](https://doi.org/10.1101/607390) or download MGSE from [GitHub](https://github.com/bpucker/MGSE).
-+ <b>NAVIP</b> (<u>N</u>eighborhood-<u>A</u>ware <u>V</u>ariant <u>I</u>mpact <u>P</u>redictor) predicts the functional impact of sequence variants by considering all variants in a coding sequences simultaneously.
-Read the [NAVIP preprint](https://doi.org/10.1101/596718 ) or download NAVIP from [GitHub](https://github.com/bpucker/NAVIP).
-
-Scripts underlying my research are generally publicly available on [GitHub](https://github.com/bpucker).
 
 
 
