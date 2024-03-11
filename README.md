@@ -35,10 +35,6 @@
 </p>
 
 
-
-<br> <br>
-
-
 <h3 id="funding">Awards, funding, and scholarships</h3>
 
 + 2019 DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
@@ -108,25 +104,16 @@ various other plant species especially members of the Caryophyllales
 <br>
 
 
-<h4 id="tools">Developed Bioinformatic Tools</h4>
-<ul>
-<li>
-<b>KIPEs</b> (<u>K</u>nowledge-based <u>I</u>dentification of <u>P</u>athway <u>E</u>nzymes) identifieds all candidates of a metabolic pathway (e.g. flavonoid biosynthesis) or all members of a gene family (e.g. R2R3 MYBs).
-Read the <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">publication</a> or download KIPEs from <a href="https://github.com/bpucker/KIPEs">github</a>.
-</li>
-<li>
-<b>MGSE</b> (<u>M</u>apping-based <u>G</u>enome <u>S</u>ize <u>E</u>stimator) utilizes the mapping of short reads to a long read genome assembly to estimate the genome size. Read the 
-<a href="https://doi.org/10.1101/607390"> preprint</a> or download MGSE from <a href="https://doi.org/10.1101/607390">github</a>.
-</li>
-<li>
-<b>NAVIP</b> (<u>N</u>eighborhood-<u>A</u>ware <u>V</u>ariant <u>I</u>mpact <u>P</u>redictor) predicts the functional impact of sequence variants by considering all variants in a coding sequences simultaneously.
-Read the <a href="https://www.biorxiv.org/content/10.1101/596718v2.full">preprint</a> or download NAVIP from <a href="https://github.com/bpucker/NAVIP">github</a>.
-</li>
-<li>
-Most of my scripts are publicly available on github: <a href="https://github.com/bpucker">bpucker</a>.
-</li>
+<h4 id="tools">Bioinformatic Tools</h4>
+Please find a list of the bioinformatic tools developed by me or my group at our [PBB-tools](https://github.com/bpucker/PBBtools) GitHub respository. There is also a [pbb-tools](https://pbb-tools.de/) web server to run many of our tools online.
 
-</ul>
++ <b>KIPEs</b> (<u>K</u>nowledge-based <u>I</u>dentification of <u>P</u>athway <u>E</u>nzymes) identifieds all candidates of a metabolic pathway (e.g. flavonoid biosynthesis). Read the [KIPEs paper](https://www.mdpi.com/2223-7747/9/9/1103/htm), the [KIPEs3 paper](https://doi.org/10.1371/journal.pone.0294342) or download KIPEs from [GitHub](https://github.com/bpucker/KIPEs).
++ <b>MGSE</b> (<u>M</u>apping-based <u>G</u>enome <u>S</u>ize <u>E</u>stimator) utilizes the mapping of short reads to a long read genome assembly to estimate the genome size. Read the [MGSE preprint](https://doi.org/10.1101/607390) or download MGSE from [GitHub](https://github.com/bpucker/MGSE).
++ <b>NAVIP</b> (<u>N</u>eighborhood-<u>A</u>ware <u>V</u>ariant <u>I</u>mpact <u>P</u>redictor) predicts the functional impact of sequence variants by considering all variants in a coding sequences simultaneously.
+Read the [NAVIP preprint](https://doi.org/10.1101/596718 ) or download NAVIP from [GitHub](https://github.com/bpucker/NAVIP).
+
+Scripts underlying my research are generally publicly available on [GitHub](https://github.com/bpucker).
+
 
 
 <br>
