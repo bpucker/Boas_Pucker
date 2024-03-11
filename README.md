@@ -20,7 +20,7 @@
 </li>
 <li>email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de</li>
 <li>Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a></li>
-<li>Publons: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a></li>
+<li>WebOfScience: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a></li>
 <li>ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a></li>
 <li>Twitter: <a href="https://twitter.com/boas_pucker">@boas_pucker</a></li>
 <li>Github: <a href="https://github.com/bpucker">bpucker</a></li>
@@ -33,6 +33,218 @@
 <p><b>Reviews</b>: Review requests from high quality open access journals are welcome if they match 
 <a href="https://github.com/bpucker/Boas_Pucker#research-interests">my expertise</a>.
 </p>
+
+
+
+<br> <br>
+
+
+<h3 id="funding">Awards, funding, and scholarships</h3>
+
++ 2019 DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
++ 2019 Research Fellowship for Plant Genomics and Bioinformatics
++ 2018 Fellowship for Digital Innovations in Academic Teaching([digital laboratory notebook](https://www.stifterverband.org/digital-lehrfellows/2017/pucker))
++ 2018 DAAD scholarship (University of Cambridge, UK)
++ 2015 Award for excellent master's thesis ([Friedrich Wilhelm Helweg Foundation](https://www.im.nrw/friedrich-wilhelm-helweg-stiftung))
++ 2014 [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html)
+
+
+<h3 id="research_interests">Research Interests</h3>
+
+<h4 id="genome_research">Genome Research</h4>
+<ul>
+<li>High molecular weigth DNA extraction and long read sequencing (Oxford Nanopore Technologies, ONT)</li>
+<li><i>De novo</i> genome assembly and annotation</li>
+<li>Comparative genomics and pangenomics</li>
+<li>Read mapping, variant calling (SNVs, InDels, SVs), and variant annotation</li>
+<li>Genome size and transposable elements</li>
+</ul>
+
+
+<br>
+
+
+<h4 id="rna_seq">Transcriptomics / RNA-Seq</h4>
+<ul>
+<li><i>De novo</i> transcriptome assembly</li>
+<li>Co-expression analyses</li>
+<li>Differential gene expression analyses</li>
+</ul>
+
+<br>
+
+
+<h4 id="evolution">Evolution of Specialized Metabolism</h4>
+<ul>
+<li>Evolution of the complex pigmentation in Caryophyllales involving <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://doi.org/10.1111/nph.19341"><b>anthocyanin</b></a> biosynthesis</li>
+<li>Genome evolution</li>
+<li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family</li>
+</ul>
+
+<br>
+
+<h4 id="plantspecies">Studied Plant Species</h4>
+<p>
+	<i>Arabidopsis thaliana</i>, 
+	<i>Arabidopsis halleri</i>, 
+	<i>Beta vulgaris</i>, 
+	<i>Beta coroliflora</i>, 
+	<i>Beta lomatogona</i>, 
+	<i>Brassica napus</i>, 
+	<i>Cicer arietinum</i>, 
+	<i>Croton tiglium</i>, 
+	<i>Dioscorea dumetorum</i>, 
+	<i>Kewa caespitosa</i>, 
+	<i>Macarthuria australis</i>, 
+	<i>Medicago truncatula</i>, 
+	<i>Musa acuminata</i>, 
+	<i>Pharnaceum exiguum</i>,
+	<i>Simmondsia chinensis</i>, 
+	<i>Vitis vinifera</i>
+</p>
+<p>
+various other plant species especially members of the Caryophyllales
+</p>
+<br>
+
+
+<h4 id="tools">Developed Bioinformatic Tools</h4>
+<ul>
+<li>
+<b>KIPEs</b> (<u>K</u>nowledge-based <u>I</u>dentification of <u>P</u>athway <u>E</u>nzymes) identifieds all candidates of a metabolic pathway (e.g. flavonoid biosynthesis) or all members of a gene family (e.g. R2R3 MYBs).
+Read the <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">publication</a> or download KIPEs from <a href="https://github.com/bpucker/KIPEs">github</a>.
+</li>
+<li>
+<b>MGSE</b> (<u>M</u>apping-based <u>G</u>enome <u>S</u>ize <u>E</u>stimator) utilizes the mapping of short reads to a long read genome assembly to estimate the genome size. Read the 
+<a href="https://doi.org/10.1101/607390"> preprint</a> or download MGSE from <a href="https://doi.org/10.1101/607390">github</a>.
+</li>
+<li>
+<b>NAVIP</b> (<u>N</u>eighborhood-<u>A</u>ware <u>V</u>ariant <u>I</u>mpact <u>P</u>redictor) predicts the functional impact of sequence variants by considering all variants in a coding sequences simultaneously.
+Read the <a href="https://www.biorxiv.org/content/10.1101/596718v2.full">preprint</a> or download NAVIP from <a href="https://github.com/bpucker/NAVIP">github</a>.
+</li>
+<li>
+Most of my scripts are publicly available on github: <a href="https://github.com/bpucker">bpucker</a>.
+</li>
+
+</ul>
+
+
+<br>
+
+
+
+<h3 id="teaching">Teaching</h3>
+<h4 id="courses">Courses</h4>
+<p>The <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=64858304">ekVV</a> provides an overiew of my courses (German & English) at Bielefeld University.
+In addition, I am teaching through supervison of iGEM <a href="https://www.igem-bielefeld.de/">Bielefeld-CeBiTec</a> teams as outlined above.
+My projects about digitial innovations in higher education were kindly supported by a fellowship from the <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">Stifterverband</a>.
+Here is a list of my courses with links to slides and data sets:
+</p>
+
+<ul>
+</li>	
+<li>Applied Python Programming for Life Scientists<br>
+<a href="https://pub.uni-bielefeld.de/download/2920633/2920815">Paper</a>, 
+<a href="https://github.com/bpucker/APPLS">github</a>
+</li>
+<li>Applied Genome Research<br>
+<a href="https://doi.org/10.1515/jib-2019-0005">Paper</a>,
+<a href="https://github.com/bpucker/AppliedGenomeResearch">github</a>
+</li>
+<li>Molecular Methods in Genome Research<br>
+(funded by 
+<a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">'digi' fellowship</a> and 
+<a href="https://www.genomforschung.uni-bielefeld.de/en/">Genetics & Genomics of Plants</a>)<br>
+<a href="https://doi.org/10.1515/jib-2019-0005">Paper</a>,
+<a href="https://github.com/bpucker/MolecularMethodsInGenomeResearch">github</a>
+</li>
+<li>Progress in Synthetic Biology<br>
+<a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=119368540">ekVV</a>
+</li>
+</ul>
+
+<h4 id="iGEM">Synthetic Biology (iGEM)</h4>
+<p>iGEM is the largest competition for synthetic biology. Student teams from all over the world participate and present their project at the annual Giant Jamboree.
+<a href="https://www.igem-bielefeld.de/">iGEM Bielefeld-CeBiTec</a> participates in <a href="https://igem.org/Main_Page">iGEM</a> since 2010.
+I was involved in 
+<a href="http://2014.igem.org/Team:Bielefeld-CeBiTec">2014</a> (team member),
+<a href="http://2016.igem.org/Team:Bielefeld-CeBiTec">2016</a> (supervision),
+<a href="http://2017.igem.org/Team:Bielefeld-CeBiTec">2017</a> (supervision),
+<a href="http://2018.igem.org/Team:Bielefeld-CeBiTec">2018</a> (supervision), and
+<a href="http://2019.igem.org/Team:Bielefeld-CeBiTec">2019</a> (supervision). In addition, I severed as a Judge at the Giant Jamboree and mentored several other teams including
+<a href="https://2019.igem.org/Team:Athens"> Athens 2019</a> and
+<a href="https://2019.igem.org/Team:Thessaly">Thessaly 2019</a>.
+<a href="https://after.igem.org/">After iGEM</a> selected me as 'iGEMer of the month' in September 2019.</p>
+
+<br>
+
+<br>
+
+
+<h3 id="CV">CV</h3>
+<h4 id="positions">Positions</h4>
+<ul>
+<li>2019-2020 <a href="https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html">Molecular Genetics and Physiology of Plants</a></li>
+<li>2018-2019 <a href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/">Genetics and Genomics of Plants</a>, CeBiTec & Faculty of Biology (Bielefeld University)</li>
+<li>2018 <a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a>, 
+<a href="https://www.plantsci.cam.ac.uk/">Department of Plant Sciences</a>, 
+<a href="https://www.cam.ac.uk/">University of Cambridge</a> (UK)</a>
+ funded by <a href="https://www.daad.de/en/">DAAD</a></li>
+<li>2015-2017 <a href="https://www.genomforschung.uni-bielefeld.de/de/">Genome Research</a>, CeBiTec & Faculty of Biology (Bielefeld University)</li>
+<li>2015 <a href="http://www.alacris.de/de/">ALACRiS Theranostics GmbH</a></li>
+<li>2011-2015 <a href="https://www.uni-bielefeld.de/biologie/">Faculty of Biology</a> (Bielefeld University)</li>
+</ul>
+
+<h4 id="education">Education</h4>
+<ul>
+<li>05/2019: Dr. rer. nat. (very good), Faculty of Biology (Bielefeld University), thesis:
+<i>De novo</i> Nd-1 genome assembly reveals genomic diversity of <i>Arabidopsis thaliana</i> and facilitates genome-wide non-canonical splice site analyses across plant species<br>
+<a href="http://doi.org/10.4119/unibi/2935794">Dissertation Boas Pucker</a>
+</li>
+<li>2017-2019 Computational Methods for the Analysis of the Diversity and Dynamics of Genomes (DiDy) | <a href="https://didy.uni-bielefeld.de/">GRK1906</a></li>
+<li>2017-2020 PhD Program <a href="http://www.uni-bielefeld.de/technische-fakultaet/promotion/promotionsstudiengaenge/Bioinformatik/">Bioinformatics</a> (Bielefeld University)</li>
+<li>2016-2019 PhD Program <a href="https://www.uni-bielefeld.de/biologie/phd/index.html">Biology</a> (Bielefeld University)</li>
+<li>2013-2015 Genome-Based Systems Biology <a href="https://ekvv.uni-bielefeld.de/sinfo/publ/variante/62556648?lang=en">(GBSB)</a>(Bielefeld University)</li>
+<li>2010-2013 <a href="https://ekvv.uni-bielefeld.de/sinfo/publ/variante/62556648?lang=en">Biology</a> (Genetics, Cell Biology, Physiology) (Bielefeld University)</li>
+<li>2009-2010 <a href="https://www.uni-duesseldorf.de/home/nc/en/studying-and-teaching-at-hhu/studying/all-courses-of-study-at-heinrich-heine-university/studiengang-informationen/studiengaenge/biochemie.html">Biochemistry</a> (Heinrich Heine University Duesseldorf)</li>
+</ul>
+
+
+<br>
+
+<h4 id="Editor">Editor Activity</h4>
++ Member of the [Editorial Board](https://bmcgenomics.biomedcentral.com/about/editorial-board) of BMC Genomics (<i>Plant Genomics</i> section).
++ Associate Editor at Frontiers ([loop profile](https://loop.frontiersin.org/people/456636/overview))
+
+
+<br>
+
+<h4 id="reviewer">Reviewer Activities</h4>
+A detailed list of my reviewer activities is available via [WebOfScience](https://publons.com/researcher/1008011/boas-pucker/) or [ORCID](https://orcid.org/0000-0002-3321-7471). Here is a list of selected journals and communities which I supported with reviews:
+Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinformatics, GigaScience, Horticultural Research, Journal of Experimental Botany, Molecular Plant, BMC Plant Biology, BMC Genomics, Frontiers in Plant Sciences, Molecular Biology Reports, Scientific Reports, PeerJ, Plant Cell Reports, PLOS ONE, Communications Biology, Journal of Integrative Plant Biology (JIPB), Theoretical and Applied Genetics (TAAG), pyOpenSci, Methods in Ecology and Evolution
+
+
+
+<br><br>
+<h4 id="memberships">Memberships</h4>
++ 06/2023-present Verband Biologie, Biowiss. und Biomed in Deutschland e.V (VBIO)
++ 05/2023-present DSI Scientific Network
++ 01/2023-present German Association for Synthetic Biology (GASB)
++ 07/2020-present European Society of Evolutionary Biology (ESEB)
++ 02/2020-present [Plantae](https://community.plantae.org/user/bpucker) / American Society of Plant Biologists (ASPB)
++ 12/2019-present German Society for Plant Sciences (DBG)
++ 2019-present bts e.V. (biotechnology students' initiative)
++ Freunde des Braunschweiger Botanischen Gartens e.V.
++ Braunschweiger Hochschulbund e.V. (BHB)
++ Deutscher Hochschul Verband (DHV)
+
+
+<br><br>
+<h3 id="scicomm">Science Communication</h3>
+<ul>
+<li><a href="https://github.com/bpucker/FlavonoidFriday">FlavonoidFriday</a></li>
+<li><a href="https://github.com/bpucker/MybMonday">MybMonday</a></li>
+</ul>
 
 
 
@@ -520,245 +732,4 @@ BMC Plant Biol. 14: 249. doi:10.1186/s12870-014-0249-8.<br>
 </li>
 
 </ul>
-
-
-<br> <br>
-
-
-<h3 id="funding">Awards, funding, and scholarships</h3>
-
-+ 2019 DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
-+ 2019 Research Fellowship for Plant Genomics and Bioinformatics
-+ 2018 Fellowship for Digital Innovations in Academic Teaching([digital laboratory notebook](https://www.stifterverband.org/digital-lehrfellows/2017/pucker))
-+ 2018 DAAD scholarship (University of Cambridge, UK)
-+ 2015 Award for excellent master's thesis ([Friedrich Wilhelm Helweg Foundation](https://www.im.nrw/friedrich-wilhelm-helweg-stiftung))
-+ 2014 [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html)
-
-
-<h3 id="research_interests">Research Interests</h3>
-
-<h4 id="genome_research">Genome Research</h4>
-<ul>
-<li>High molecular weigth DNA extraction and long read sequencing (Oxford Nanopore Technologies, ONT)</li>
-<li><i>De novo</i> genome assembly and annotation</li>
-<li>Comparative genomics and pangenomics</li>
-<li>Read mapping, variant calling (SNVs, InDels, SVs), and variant annotation</li>
-<li>Genome size and transposable elements</li>
-</ul>
-
-
-<br>
-
-
-<h4 id="rna_seq">Transcriptomics / RNA-Seq</h4>
-<ul>
-<li><i>De novo</i> transcriptome assembly</li>
-<li>Co-expression analyses</li>
-<li>Differential gene expression analyses</li>
-</ul>
-
-<br>
-
-
-<h4 id="evolution">Evolution of Specialized Metabolism</h4>
-<ul>
-<li>Evolution of the complex pigmentation in Caryophyllales involving <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://doi.org/10.1111/nph.19341"><b>anthocyanin</b></a> biosynthesis</li>
-<li>Genome evolution</li>
-<li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family</li>
-</ul>
-
-<br>
-
-<h4 id="plantspecies">Studied Plant Species</h4>
-<p>
-	<i>Arabidopsis thaliana</i>, 
-	<i>Arabidopsis halleri</i>, 
-	<i>Beta vulgaris</i>, 
-	<i>Beta coroliflora</i>, 
-	<i>Beta lomatogona</i>, 
-	<i>Brassica napus</i>, 
-	<i>Cicer arietinum</i>, 
-	<i>Croton tiglium</i>, 
-	<i>Dioscorea dumetorum</i>, 
-	<i>Kewa caespitosa</i>, 
-	<i>Macarthuria australis</i>, 
-	<i>Medicago truncatula</i>, 
-	<i>Musa acuminata</i>, 
-	<i>Pharnaceum exiguum</i>,
-	<i>Simmondsia chinensis</i>, 
-	<i>Vitis vinifera</i>
-</p>
-<p>
-various other plant species especially members of the Caryophyllales
-</p>
-<br>
-
-
-<h4 id="tools">Developed Bioinformatic Tools</h4>
-<ul>
-<li>
-<b>KIPEs</b> (<u>K</u>nowledge-based <u>I</u>dentification of <u>P</u>athway <u>E</u>nzymes) identifieds all candidates of a metabolic pathway (e.g. flavonoid biosynthesis) or all members of a gene family (e.g. R2R3 MYBs).
-Read the <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">publication</a> or download KIPEs from <a href="https://github.com/bpucker/KIPEs">github</a>.
-</li>
-<li>
-<b>MGSE</b> (<u>M</u>apping-based <u>G</u>enome <u>S</u>ize <u>E</u>stimator) utilizes the mapping of short reads to a long read genome assembly to estimate the genome size. Read the 
-<a href="https://doi.org/10.1101/607390"> preprint</a> or download MGSE from <a href="https://doi.org/10.1101/607390">github</a>.
-</li>
-<li>
-<b>NAVIP</b> (<u>N</u>eighborhood-<u>A</u>ware <u>V</u>ariant <u>I</u>mpact <u>P</u>redictor) predicts the functional impact of sequence variants by considering all variants in a coding sequences simultaneously.
-Read the <a href="https://www.biorxiv.org/content/10.1101/596718v2.full">preprint</a> or download NAVIP from <a href="https://github.com/bpucker/NAVIP">github</a>.
-</li>
-<li>
-Most of my scripts are publicly available on github: <a href="https://github.com/bpucker">bpucker</a>.
-</li>
-
-</ul>
-
-
-<br>
-
-
-
-<h3 id="teaching">Teaching</h3>
-<h4 id="courses">Courses</h4>
-<p>The <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=64858304">ekVV</a> provides an overiew of my courses (German & English) at Bielefeld University.
-In addition, I am teaching through supervison of iGEM <a href="https://www.igem-bielefeld.de/">Bielefeld-CeBiTec</a> teams as outlined above.
-My projects about digitial innovations in higher education were kindly supported by a fellowship from the <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">Stifterverband</a>.
-Here is a list of my courses with links to slides and data sets:
-</p>
-
-<ul>
-</li>	
-<li>Applied Python Programming for Life Scientists<br>
-<a href="https://pub.uni-bielefeld.de/download/2920633/2920815">Paper</a>, 
-<a href="https://github.com/bpucker/APPLS">github</a>
-</li>
-<li>Applied Genome Research<br>
-<a href="https://doi.org/10.1515/jib-2019-0005">Paper</a>,
-<a href="https://github.com/bpucker/AppliedGenomeResearch">github</a>
-</li>
-<li>Molecular Methods in Genome Research<br>
-(funded by 
-<a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">'digi' fellowship</a> and 
-<a href="https://www.genomforschung.uni-bielefeld.de/en/">Genetics & Genomics of Plants</a>)<br>
-<a href="https://doi.org/10.1515/jib-2019-0005">Paper</a>,
-<a href="https://github.com/bpucker/MolecularMethodsInGenomeResearch">github</a>
-</li>
-<li>Progress in Synthetic Biology<br>
-<a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=119368540">ekVV</a>
-</li>
-</ul>
-
-<h4 id="iGEM">Synthetic Biology (iGEM)</h4>
-<p>iGEM is the largest competition for synthetic biology. Student teams from all over the world participate and present their project at the annual Giant Jamboree.
-<a href="https://www.igem-bielefeld.de/">iGEM Bielefeld-CeBiTec</a> participates in <a href="https://igem.org/Main_Page">iGEM</a> since 2010.
-I was involved in 
-<a href="http://2014.igem.org/Team:Bielefeld-CeBiTec">2014</a> (team member),
-<a href="http://2016.igem.org/Team:Bielefeld-CeBiTec">2016</a> (supervision),
-<a href="http://2017.igem.org/Team:Bielefeld-CeBiTec">2017</a> (supervision),
-<a href="http://2018.igem.org/Team:Bielefeld-CeBiTec">2018</a> (supervision), and
-<a href="http://2019.igem.org/Team:Bielefeld-CeBiTec">2019</a> (supervision). In addition, I severed as a Judge at the Giant Jamboree and mentored several other teams including
-<a href="https://2019.igem.org/Team:Athens"> Athens 2019</a> and
-<a href="https://2019.igem.org/Team:Thessaly">Thessaly 2019</a>.
-<a href="https://after.igem.org/">After iGEM</a> selected me as 'iGEMer of the month' in September 2019.</p>
-
-<br>
-
-<br>
-
-
-<h3 id="CV">CV</h3>
-<h4 id="positions">Positions</h4>
-<ul>
-<li>2019-2020 <a href="https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html">Molecular Genetics and Physiology of Plants</a></li>
-<li>2018-2019 <a href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/">Genetics and Genomics of Plants</a>, CeBiTec & Faculty of Biology (Bielefeld University)</li>
-<li>2018 <a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a>, 
-<a href="https://www.plantsci.cam.ac.uk/">Department of Plant Sciences</a>, 
-<a href="https://www.cam.ac.uk/">University of Cambridge</a> (UK)</a>
- funded by <a href="https://www.daad.de/en/">DAAD</a></li>
-<li>2015-2017 <a href="https://www.genomforschung.uni-bielefeld.de/de/">Genome Research</a>, CeBiTec & Faculty of Biology (Bielefeld University)</li>
-<li>2015 <a href="http://www.alacris.de/de/">ALACRiS Theranostics GmbH</a></li>
-<li>2011-2015 <a href="https://www.uni-bielefeld.de/biologie/">Faculty of Biology</a> (Bielefeld University)</li>
-</ul>
-
-<h4 id="education">Education</h4>
-<ul>
-<li>05/2019: Dr. rer. nat. (very good), Faculty of Biology (Bielefeld University), thesis:
-<i>De novo</i> Nd-1 genome assembly reveals genomic diversity of <i>Arabidopsis thaliana</i> and facilitates genome-wide non-canonical splice site analyses across plant species<br>
-<a href="http://doi.org/10.4119/unibi/2935794">Dissertation Boas Pucker</a>
-</li>
-<li>2017-2019 Computational Methods for the Analysis of the Diversity and Dynamics of Genomes (DiDy) | <a href="https://didy.uni-bielefeld.de/">GRK1906</a></li>
-<li>2017-2020 PhD Program <a href="http://www.uni-bielefeld.de/technische-fakultaet/promotion/promotionsstudiengaenge/Bioinformatik/">Bioinformatics</a> (Bielefeld University)</li>
-<li>2016-2019 PhD Program <a href="https://www.uni-bielefeld.de/biologie/phd/index.html">Biology</a> (Bielefeld University)</li>
-<li>2013-2015 Genome-Based Systems Biology <a href="https://ekvv.uni-bielefeld.de/sinfo/publ/variante/62556648?lang=en">(GBSB)</a>(Bielefeld University)</li>
-<li>2010-2013 <a href="https://ekvv.uni-bielefeld.de/sinfo/publ/variante/62556648?lang=en">Biology</a> (Genetics, Cell Biology, Physiology) (Bielefeld University)</li>
-<li>2009-2010 <a href="https://www.uni-duesseldorf.de/home/nc/en/studying-and-teaching-at-hhu/studying/all-courses-of-study-at-heinrich-heine-university/studiengang-informationen/studiengaenge/biochemie.html">Biochemistry</a> (Heinrich Heine University Duesseldorf)</li>
-</ul>
-
-
-<br>
-
-<h4 id="Editor">Editor Activity</h4>
-<ul>
-<li><p>
-Member of the Editorial Board of <a href="https://bmcgenomics.biomedcentral.com/about/editorial-board">BMC Genomics</a> (<i>Plant Genomics</i> section).
-</p></li>
-<li><p>
-Guest editor for a special issue about 
-<a href="https://www.mdpi.com/journal/plants/special_issues/Harnessing_Power_Genome">Harnessing the Power of Genome and Transcriptome Assemblies</a>
- in Plants. This Special Issue is open to all research articles providing new insights into the biology of plants based on genome or transcriptome assemblies.
-</p></li>
-<li><p>
-Associate Editor at <a href="https://loop.frontiersin.org/people/456636/overview">Frontiers</a>.
-</p></li>	
-</ul>
-
-<br>
-
-<h4 id="reviewer">Reviewer Activities</h4>
-<p>A comprehensive list of my reviewer activities is available via <a href="https://publons.com/researcher/1008011/boas-pucker/">Publons</a>. Here is a list of journals and communities which I supported with reviews:</p>
-<a href="https://www.mdpi.com/journal/agriculture">Agriculture</a>,
-<a href="https://www.mdpi.com/journal/agronomy">Agronomy</a>,
-<a href="https://www.mdpi.com/journal/biology">Biology</a>,
-<a href="https://bmcgenomics.biomedcentral.com/">BMC Genomics</a>,
-<a href="https://www.frontiersin.org/journals/plant-science#">Frontiers in Plant Sciences</a>,
-<a href="https://www.mdpi.com/journal/microorganisms">Microorganisms</a>,
-<a href="https://www.springer.com/journal/11033">Molecular Biology Reports</a>,
-<a href="https://www.nature.com/srep/">Scientific Reports</a>,
-<a href="https://www.mdpi.com/journal/genes">Genes</a>,
-<a href="">Journal of Limnology and Freshwater Fisheries Research</a>,
-<a href="https://peerj.com/">PeerJ</a>,
-<a href="https://www.springer.com/journal/299">Plant Cell Reports</a>,
-<a href="https://journals.plos.org/plosone/">PLOS ONE</a>,
-<a href="https://www.springer.com">Springer Nature</a>,
-<a href="https://www.mdpi.com/journal/plants">Plants</a>,
-<a href="https://www.nature.com/commsbio/">Communications Biology</a>,
-<a href="https://www.mdpi.com/journal/ijms">International Journal of Molecular Sciences</a>
-<a href="http://www.jipb.net">Journal of Integrative Plant Biology (JIPB)</a>,
-<a href="https://www.springer.com/journal/122">Theoretical and Applied Genetics (TAAG)</a>,
-<a href="https://www.pyopensci.org/">pyOpenSci</a>,
-<a href="https://www.mdpi.com/journal/life">life</a>,
-<a href="https://www.mdpi.com/journal/biomedicines">biomedicines</a>,
-<a href="https://besjournals.onlinelibrary.wiley.com/journal/2041210X">Methods in Ecology and Evolution</a>
-
-
-
-<br><br>
-<h4 id="memberships">Memberships</h4>
-<ul>
-<li><a href="https://community.plantae.org/user/bpucker">Plantae</a> / American Society of Plant Biologists (ASPB)</li>
-<li>Deutscher Hochschul Verband (<a href="https://www.hochschulverband.de">DHV</a>)</li>
-<li>Deutsche Botanische Gesellschaft (<a href="https://www.deutsche-botanische-gesellschaft.de/">DBG</a>)</li>
-<li>European Society of Evolutionary Biology (<a href="https://eseb.org/">ESEB</a>)</li>
-</ul>
-
-
-
-<br><br>
-<h3 id="scicomm">Science Communication</h3>
-<ul>
-<li><a href="https://github.com/bpucker/FlavonoidFriday">FlavonoidFriday</a></li>
-<li><a href="https://github.com/bpucker/MybMonday">MybMonday</a></li>
-</ul>
-
 
