@@ -79,6 +79,7 @@ Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, 
 ### Teaching activities at TU Braunschweig
 Please see my website about courses at TU Braunschweig for latest updates: [BP teaching at TUBS](https://www.tu-braunschweig.de/en/ifp/pbb/teaching).
 
+
 ### Teaching activities at Bielefeld University
 The [ekVV](https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=64858304) provides an overiew of my courses (German & English) at Bielefeld University. In addition, I am teaching through supervison of iGEM <a href="https://www.igem-bielefeld.de/">Bielefeld-CeBiTec</a> teams as outlined above. My projects about digitial innovations in higher education were kindly supported by a fellowship from the [Stifterverband](https://www.stifterverband.org/digital-lehrfellows/2017/pucker).
 Here is a list of my courses with links to slides and data sets:
@@ -90,17 +91,16 @@ Here is a list of my courses with links to slides and data sets:
 
 
 ### Synthetic Biology (iGEM)
-<p>iGEM is the largest competition for synthetic biology. Student teams from all over the world participate and present their project at the annual Giant Jamboree.
-<a href="https://www.igem-bielefeld.de/">iGEM Bielefeld-CeBiTec</a> participates in <a href="https://igem.org/Main_Page">iGEM</a> since 2010.
-I was involved in 
-<a href="http://2014.igem.org/Team:Bielefeld-CeBiTec">2014</a> (team member),
-<a href="http://2016.igem.org/Team:Bielefeld-CeBiTec">2016</a> (supervision),
-<a href="http://2017.igem.org/Team:Bielefeld-CeBiTec">2017</a> (supervision),
-<a href="http://2018.igem.org/Team:Bielefeld-CeBiTec">2018</a> (supervision), and
-<a href="http://2019.igem.org/Team:Bielefeld-CeBiTec">2019</a> (supervision). In addition, I severed as a Judge at the Giant Jamboree and mentored several other teams including
-<a href="https://2019.igem.org/Team:Athens"> Athens 2019</a> and
-<a href="https://2019.igem.org/Team:Thessaly">Thessaly 2019</a>.
-<a href="https://after.igem.org/">After iGEM</a> selected me as 'iGEMer of the month' in September 2019.</p>
+iGEM is the largest competition for synthetic biology. Student teams from all over the world participate and present their synthetic biology projects at the annual Giant Jamboree. I participated in the teams [iGEM Bielefeld-CeBiTec](https://www.igem-bielefeld.de/) and [iGEM TU Braunschweig](https://www.tu-braunschweig.de/en/ifp/pbb/synbio) in multiple years:
++ [2014](http://2014.igem.org/Team:Bielefeld-CeBiTec) (team member)
++ [2016](http://2016.igem.org/Team:Bielefeld-CeBiTec) (supervision)
++ [2017](http://2017.igem.org/Team:Bielefeld-CeBiTec) (supervision)
++ [2018](http://2018.igem.org/Team:Bielefeld-CeBiTec) (supervision)
++ [2019](http://2019.igem.org/Team:Bielefeld-CeBiTec) (supervision); mentoring: [Athens](https://2019.igem.org/Team:Athens) and [Thessaly](https://2019.igem.org/Team:Thessaly); After iGEM selected me as 'iGEMer of the month' in September 2019
++ 2020 (judge)
++ 2021 (judge); mentoring [RUBochum](https://2021.igem.org/Team:RUBochum)
++ [2022](https://2022.igem.wiki/tu-braunschweig/) (PI)
++ [2023](https://2023.igem.wiki/tu-braunschweig/) (PI)
 
 
 ## CV
