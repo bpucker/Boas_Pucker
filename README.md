@@ -116,13 +116,13 @@ iGEM is the largest competition for synthetic biology. Student teams from all ov
 + 2011-2015 &emsp; [Faculty of Biology](https://www.uni-bielefeld.de/biologie/) (Bielefeld University)
 
 ### Education
-+ 05/2019: Dr. rer. nat. (very good), Faculty of Biology (Bielefeld University), thesis:<i>De novo</i> Nd-1 genome assembly reveals genomic diversity of <i>Arabidopsis thaliana</i> and facilitates genome-wide non-canonical splice site analyses across plant species ([Dissertation Boas Pucker](http://doi.org/10.4119/unibi/2935794))
-+ 2017-2019 Computational Methods for the Analysis of the Diversity and Dynamics of Genomes (DiDy) | GRK1906
-+ 2017-2020 PhD Program 'Bioinformatics' (Bielefeld University)
-+ 2016-2019 PhD Program 'Biology' (Bielefeld University)
-+ 2013-2015 Genome-Based Systems Biology (GBSB) (Bielefeld University)
-+ 2010-2013 Biology (Genetics, Cell Biology, Physiology) (Bielefeld University)
-+ 2009-2010 Biochemistry (Heinrich Heine University Duesseldorf)
++ 05/2019 &emsp; Dr. rer. nat. (very good), Faculty of Biology (Bielefeld University), thesis:<i>De novo</i> Nd-1 genome assembly reveals genomic diversity of <i>Arabidopsis thaliana</i> and facilitates genome-wide non-canonical splice site analyses across plant species ([Dissertation Boas Pucker](http://doi.org/10.4119/unibi/2935794))
++ 2017-2019 &emsp; Computational Methods for the Analysis of the Diversity and Dynamics of Genomes (DiDy) | GRK1906
++ 2017-2020 &emsp; PhD Program 'Bioinformatics' (Bielefeld University)
++ 2016-2019 &emsp; PhD Program 'Biology' (Bielefeld University)
++ 2013-2015 &emsp; Genome-Based Systems Biology (GBSB) (Bielefeld University)
++ 2010-2013 &emsp; Biology (Genetics, Cell Biology, Physiology) (Bielefeld University)
++ 2009-2010 &emsp; Biochemistry (Heinrich Heine University Duesseldorf)
 
 
 ## Editor/Reviewer Activity
