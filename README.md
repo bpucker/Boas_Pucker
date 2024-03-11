@@ -20,11 +20,22 @@
 ## Research Interests
 
 ### Specialized Metabolism: flavonoid biosynthesis
-<ul>
-<li>Evolution of the complex pigmentation in Caryophyllales involving <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://doi.org/10.1111/nph.19341"><b>anthocyanin</b></a> biosynthesis</li>
-<li>Genome evolution</li>
-<li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family</li>
-</ul>
+Plants produce a plethora of specialized metabolites to cope with numerous environmental challenges. Examples are terpenoids, flavonoids, and betalains. We are particularly interested in flavonoids which are responsible for the pigmentation of many blue or red flowers. Flavonoids can be separated into several subgroups including flavonols, anthocyanins, proanthocyanidins, and flavones. There are multiple reasons why working on the flavonoid biosynthesis is promising.
+
+1) The core of the flavonoid biosynthesis is a well understood model system for the regulation of biosynthesis pathways in plants. Decades of work revealed insights into the different enzymes, but also into the transcriptional regulation of the involved genes. Even Nobel Prizes have been won in association with the flavonoid biosynthesis.
+
+2) Flavonoids have enormous potential in biotechnological applications as natural colorants and due to their high nutritional value. While the general biosynthesis pathway is well conserved across distantly related plant species, their are species-specific differences in the modification of flavonoids. Detailed knowledge about the flavonoid biosynthesis in (orphan) crop species can pave the way to a healthy nutrition. Genome editing or breeding methods can be used to improve crops with respect to their nutritional value.
+
+3) Visible phenotypes resulting from the knock-out or increased activation of flavonoid biosynthesis genes can be helpful in the identification of promising mutants. Visible phenotypes were one reason why the flavonoid biosynthesis was established as a model system. However, coloration is not only important for basic research. Plants with altered expression of certain flavonoid biosynthesis genes show often fascinating colorations and are favored in horticultural plant species.
+
+4) Our work investigates the Caryophyllales which represent an outstanding system to study the flavonoid biosynthesis. This order of plants is characterized by a complex pigment evolution. Briefly, specific families in the Caryophyllales show a replacement of anthocyanins (a group of flavonoids) by betalains. Betalains do not occur in plants outside the Caryophyllales and it appears that anthocyanins and betalains are mutually exclusive. The Caryophyllales are a unique opportunity to investigate the interplay of different branches of the flavonoid biosynthesis. The comparison between anthocyanin-pigmented species and species without anthocyanins reveals new insights into the biosynthesis and regulation.
+
+Generally, we are interested in the discovery of promising biosynthesis pathways for biotechnological applications. This is not restricted to the flavonoid biosynthesis, but instead using this model system to develop new genome mining approaches. Different methods for the identification biosynthetic pathways are combined including screens and comparisons of plant genome sequences.
+
+Selected publications:
++ Loss of anthocyanin pigmentation in the Caryophyllales: [Pucker et al., 2024](https://doi.org/10.1111/nph.19341)
++ Competition of DFR and FLS: [Choudhary & Pucker, 2023](https://doi.org/10.1101/2023.11.05.565693)
++ Loss of anthocyanins in plants: [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820)
 
 
 ### Plant Genomics: Long Read Sequencing
