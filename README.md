@@ -1,4 +1,4 @@
-[Publications](https://github.com/bpucker/Boas_Pucker#publications) - [Funding](https://github.com/bpucker/Boas_Pucker#awards-funding-and-scholarships) - [Research Interests](https://github.com/bpucker/Boas_Pucker#research-interests) - [CV](https://github.com/bpucker/Boas_Pucker#cv) - [Editor/Reviewer](https://github.com/bpucker/Boas_Pucker#editor-activity) - [Teaching](https://github.com/bpucker/Boas_Pucker#teaching) - [Science Communication](https://github.com/bpucker/Boas_Pucker#science-communication)
+[Publications](https://github.com/bpucker/Boas_Pucker#publications) - [Research Interests](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#research-interests) - [Funding](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#awards-funding-and-scholarships) - [CV](https://github.com/bpucker/Boas_Pucker#cv) - [Editor/Reviewer](https://github.com/bpucker/Boas_Pucker#editor-activity) - [Teaching](https://github.com/bpucker/Boas_Pucker#teaching) - [Science Communication](https://github.com/bpucker/Boas_Pucker#science-communication)
 
 
 # Prof. Dr. Boas Pucker
@@ -17,7 +17,38 @@
 
 <b>Collaboration</b>: I am interested in collaborations involving genomics or bioinformatic analyses and matching the research interests of my group. Please send me an email.
 
-<h3 id="funding">Awards, funding, and scholarships</h3>
+## Research Interests
+
+<h4 id="genome_research">Genome Research</h4>
+<ul>
+<li>High molecular weigth DNA extraction and long read sequencing (Oxford Nanopore Technologies, ONT)</li>
+<li><i>De novo</i> genome assembly and annotation</li>
+<li>Comparative genomics and pangenomics</li>
+<li>Read mapping, variant calling (SNVs, InDels, SVs), and variant annotation</li>
+<li>Genome size and transposable elements</li>
+</ul>
+
+
+<h4 id="rna_seq">Transcriptomics / RNA-Seq</h4>
+<ul>
+<li><i>De novo</i> transcriptome assembly</li>
+<li>Co-expression analyses</li>
+<li>Differential gene expression analyses</li>
+</ul>
+
+
+<h4 id="evolution">Evolution of Specialized Metabolism</h4>
+<ul>
+<li>Evolution of the complex pigmentation in Caryophyllales involving <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://doi.org/10.1111/nph.19341"><b>anthocyanin</b></a> biosynthesis</li>
+<li>Genome evolution</li>
+<li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family</li>
+</ul>
+
+
+Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, <i>Beta vulgaris</i>, <i>Beta coroliflora</i>, <i>Beta lomatogona</i>, <i>Brassica napus</i>, <i>Cicer arietinum</i>, <i>Croton tiglium</i>, <i>Dioscorea dumetorum</i>, <i>Kewa caespitosa</i>, <i>Macarthuria australis</i>, <i>Medicago truncatula</i>, <i>Musa acuminata</i>, <i>Pharnaceum exiguum</i>, <i>Simmondsia chinensis</i>, <i>Vitis vinifera</i> various other plant species especially members of the Caryophyllales.
+
+
+## Awards, funding, and scholarships
 + 2024 Financial Support for SynBio2024
 + 2023 DFG Research Project ['Phylogenomic elucidation of withanolide biosynthesis in Nightshade plants'](https://gepris.dfg.de/gepris/projekt/516566273)
 + 2023 Financial support for iGEM2023
@@ -31,63 +62,6 @@
 + 2014 [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html)
 
 
-<h3 id="research_interests">Research Interests</h3>
-
-<h4 id="genome_research">Genome Research</h4>
-<ul>
-<li>High molecular weigth DNA extraction and long read sequencing (Oxford Nanopore Technologies, ONT)</li>
-<li><i>De novo</i> genome assembly and annotation</li>
-<li>Comparative genomics and pangenomics</li>
-<li>Read mapping, variant calling (SNVs, InDels, SVs), and variant annotation</li>
-<li>Genome size and transposable elements</li>
-</ul>
-
-
-<br>
-
-
-<h4 id="rna_seq">Transcriptomics / RNA-Seq</h4>
-<ul>
-<li><i>De novo</i> transcriptome assembly</li>
-<li>Co-expression analyses</li>
-<li>Differential gene expression analyses</li>
-</ul>
-
-<br>
-
-
-<h4 id="evolution">Evolution of Specialized Metabolism</h4>
-<ul>
-<li>Evolution of the complex pigmentation in Caryophyllales involving <a href="https://doi.org/10.1111/nph.15980"><b>betalain</b></a> and <a href="https://doi.org/10.1111/nph.19341"><b>anthocyanin</b></a> biosynthesis</li>
-<li>Genome evolution</li>
-<li>Evolution of the <i>R2R3-MYB</i> transcription factor gene family</li>
-</ul>
-
-<br>
-
-<h4 id="plantspecies">Studied Plant Species</h4>
-<p>
-	<i>Arabidopsis thaliana</i>, 
-	<i>Arabidopsis halleri</i>, 
-	<i>Beta vulgaris</i>, 
-	<i>Beta coroliflora</i>, 
-	<i>Beta lomatogona</i>, 
-	<i>Brassica napus</i>, 
-	<i>Cicer arietinum</i>, 
-	<i>Croton tiglium</i>, 
-	<i>Dioscorea dumetorum</i>, 
-	<i>Kewa caespitosa</i>, 
-	<i>Macarthuria australis</i>, 
-	<i>Medicago truncatula</i>, 
-	<i>Musa acuminata</i>, 
-	<i>Pharnaceum exiguum</i>,
-	<i>Simmondsia chinensis</i>, 
-	<i>Vitis vinifera</i>
-</p>
-<p>
-various other plant species especially members of the Caryophyllales
-</p>
-<br>
 
 
 <h4 id="tools">Bioinformatic Tools</h4>
