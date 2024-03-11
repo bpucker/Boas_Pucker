@@ -104,42 +104,32 @@ iGEM is the largest competition for synthetic biology. Student teams from all ov
 
 
 ## CV
-<h4 id="positions">Positions</h4>
-<ul>
-<li>2019-2020 <a href="https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html">Molecular Genetics and Physiology of Plants</a></li>
-<li>2018-2019 <a href="https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/">Genetics and Genomics of Plants</a>, CeBiTec & Faculty of Biology (Bielefeld University)</li>
-<li>2018 <a href="http://brockingtonlab.co.uk/team.html">Evolution and Diversity</a>, 
-<a href="https://www.plantsci.cam.ac.uk/">Department of Plant Sciences</a>, 
-<a href="https://www.cam.ac.uk/">University of Cambridge</a> (UK)</a>
- funded by <a href="https://www.daad.de/en/">DAAD</a></li>
-<li>2015-2017 <a href="https://www.genomforschung.uni-bielefeld.de/de/">Genome Research</a>, CeBiTec & Faculty of Biology (Bielefeld University)</li>
-<li>2015 <a href="http://www.alacris.de/de/">ALACRiS Theranostics GmbH</a></li>
-<li>2011-2015 <a href="https://www.uni-bielefeld.de/biologie/">Faculty of Biology</a> (Bielefeld University)</li>
-</ul>
+### Positions
++ since 2022 Head of Technology Transfer Center 'Plant Genomics and Applied Bioinformatics'
++ since 2021 Professor at TU Braunschweig, [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb), Institute of Plant Biology & BRICS
++ 2020-2021 [Evolution and Diversity](http://brockingtonlab.co.uk/team.html), Department of Plant Sciences, University of Cambridge (UK) funded by DFG
++ 2019-2020 [Molecular Genetics and Physiology of Plants](https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html)
++ 2018-2019 [Genetics and Genomics of Plants](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/), CeBiTec & Faculty of Biology (Bielefeld University)
++ 2018 [Evolution and Diversity](http://brockingtonlab.co.uk/team.html), Department of Plant Sciences, University of Cambridge (UK) funded by DAAD
++ 2015-2017 [Genome Research](https://www.genomforschung.uni-bielefeld.de/de/), CeBiTec & Faculty of Biology (Bielefeld University)
++ 2015 [ALACRiS Theranostics GmbH](http://www.alacris.de/de)
++ 2011-2015 [Faculty of Biology](https://www.uni-bielefeld.de/biologie/) (Bielefeld University)
 
-<h4 id="education">Education</h4>
-<ul>
-<li>05/2019: Dr. rer. nat. (very good), Faculty of Biology (Bielefeld University), thesis:
-<i>De novo</i> Nd-1 genome assembly reveals genomic diversity of <i>Arabidopsis thaliana</i> and facilitates genome-wide non-canonical splice site analyses across plant species<br>
-<a href="http://doi.org/10.4119/unibi/2935794">Dissertation Boas Pucker</a>
-</li>
-<li>2017-2019 Computational Methods for the Analysis of the Diversity and Dynamics of Genomes (DiDy) | <a href="https://didy.uni-bielefeld.de/">GRK1906</a></li>
-<li>2017-2020 PhD Program <a href="http://www.uni-bielefeld.de/technische-fakultaet/promotion/promotionsstudiengaenge/Bioinformatik/">Bioinformatics</a> (Bielefeld University)</li>
-<li>2016-2019 PhD Program <a href="https://www.uni-bielefeld.de/biologie/phd/index.html">Biology</a> (Bielefeld University)</li>
-<li>2013-2015 Genome-Based Systems Biology <a href="https://ekvv.uni-bielefeld.de/sinfo/publ/variante/62556648?lang=en">(GBSB)</a>(Bielefeld University)</li>
-<li>2010-2013 <a href="https://ekvv.uni-bielefeld.de/sinfo/publ/variante/62556648?lang=en">Biology</a> (Genetics, Cell Biology, Physiology) (Bielefeld University)</li>
-<li>2009-2010 <a href="https://www.uni-duesseldorf.de/home/nc/en/studying-and-teaching-at-hhu/studying/all-courses-of-study-at-heinrich-heine-university/studiengang-informationen/studiengaenge/biochemie.html">Biochemistry</a> (Heinrich Heine University Duesseldorf)</li>
-</ul>
+### Education
++ 05/2019: Dr. rer. nat. (very good), Faculty of Biology (Bielefeld University), thesis:<i>De novo</i> Nd-1 genome assembly reveals genomic diversity of <i>Arabidopsis thaliana</i> and facilitates genome-wide non-canonical splice site analyses across plant species ([Dissertation Boas Pucker](http://doi.org/10.4119/unibi/2935794))
++ 2017-2019 Computational Methods for the Analysis of the Diversity and Dynamics of Genomes (DiDy) | GRK1906
++ 2017-2020 PhD Program 'Bioinformatics' (Bielefeld University)
++ 2016-2019 PhD Program 'Biology' (Bielefeld University)
++ 2013-2015 Genome-Based Systems Biology (GBSB) (Bielefeld University)
++ 2010-2013 Biology (Genetics, Cell Biology, Physiology) (Bielefeld University)
++ 2009-2010 Biochemistry (Heinrich Heine University Duesseldorf)
 
-
-<br>
 
 ## Editor/Reviewer Activity
 + Member of the [Editorial Board](https://bmcgenomics.biomedcentral.com/about/editorial-board) of BMC Genomics (<i>Plant Genomics</i> section).
 + Associate Editor at Frontiers ([loop profile](https://loop.frontiersin.org/people/456636/overview))
 + Reviewer Activities: A detailed list of my reviewer activities is available via [WebOfScience](https://publons.com/researcher/1008011/boas-pucker/) or [ORCID](https://orcid.org/0000-0002-3321-7471). Here is a list of selected journals and communities which I supported with reviews:
 Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinformatics, GigaScience, Horticultural Research, Journal of Experimental Botany, Molecular Plant, BMC Plant Biology, BMC Genomics, Frontiers in Plant Sciences, Molecular Biology Reports, Scientific Reports, PeerJ, Plant Cell Reports, PLOS ONE, Communications Biology, Journal of Integrative Plant Biology (JIPB), Theoretical and Applied Genetics (TAAG), pyOpenSci, Methods in Ecology and Evolution
-
 
 
 ### Memberships
@@ -163,14 +153,15 @@ Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinforma
 ## Publications
 A full list of publications is available at my [Google scholar profile](https://scholar.google.com/citations?user=1CbAO2UAAAAJ&hl=en).
 
-<ul>
 
+
+<ul>
 
 <li>
 <b>Pucker B</b> & Brockington S F (2021). The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak. 
-bioRxiv 2021.11.16.468878; doi: https://doi.org/10.1101/2021.11.16.468878. <br>
-<a href="https://www.biorxiv.org/content/10.1101/2021.11.16.468878v1.full">full text</a>
-<a href="https://www.biorxiv.org/content/10.1101/2021.11.16.468878v1.full.pdf">PDF</a>
+bioRxiv 2021.11.16.468878; doi: https://doi.org/10.1186/s12864-022-08947-1. <br>
+<a href="https://doi.org/10.1186/s12864-022-08947-1">full text</a>
+<a href="https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-022-08947-1.pdf">PDF</a>
 </li>
 
 <li>
