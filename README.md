@@ -62,17 +62,17 @@ Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, 
 
 
 ## Awards, funding, and scholarships
-+ 2024 Financial Support for SynBio2024
-+ 2023 DFG Research Project ['Phylogenomic elucidation of withanolide biosynthesis in Nightshade plants'](https://gepris.dfg.de/gepris/projekt/516566273)
-+ 2023 Financial support for iGEM2023
-+ 2022 Freiraum2022 Fellowship for ['Data Literacy in Genome Research'](https://www.tu-braunschweig.de/en/ifp/pbb/teaching/dalip)
-+ 2022 Financial support for iGEM2022
-+ 2019 DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
-+ 2019 Research Fellowship for Plant Genomics and Bioinformatics
-+ 2018 Fellowship for Digital Innovations in Academic Teaching([digital laboratory notebook](https://www.stifterverband.org/digital-lehrfellows/2017/pucker))
-+ 2018 DAAD scholarship (University of Cambridge, UK)
-+ 2015 Award for excellent master's thesis ([Friedrich Wilhelm Helweg Foundation](https://www.im.nrw/friedrich-wilhelm-helweg-stiftung))
-+ 2014 [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html)
++ 2024 &emsp; Financial Support for SynBio2024
++ 2023 &emsp; DFG Research Project ['Phylogenomic elucidation of withanolide biosynthesis in Nightshade plants'](https://gepris.dfg.de/gepris/projekt/516566273)
++ 2023 &emsp; Financial support for iGEM2023
++ 2022 &emsp; Freiraum2022 Fellowship for ['Data Literacy in Genome Research'](https://www.tu-braunschweig.de/en/ifp/pbb/teaching/dalip)
++ 2022 &emsp; Financial support for iGEM2022
++ 2019 &emsp; DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
++ 2019 &emsp; Research Fellowship for Plant Genomics and Bioinformatics
++ 2018 &emsp; Fellowship for Digital Innovations in Academic Teaching([digital laboratory notebook](https://www.stifterverband.org/digital-lehrfellows/2017/pucker))
++ 2018 &emsp; DAAD scholarship (University of Cambridge, UK)
++ 2015 &emsp; Award for excellent master's thesis ([Friedrich Wilhelm Helweg Foundation](https://www.im.nrw/friedrich-wilhelm-helweg-stiftung))
++ 2014 &emsp; [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html)
 
 
 ## Teaching
@@ -105,15 +105,15 @@ iGEM is the largest competition for synthetic biology. Student teams from all ov
 
 ## CV
 ### Positions
-+ since 2022 Head of Technology Transfer Center 'Plant Genomics and Applied Bioinformatics'
-+ since 2021 Professor at TU Braunschweig, [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb), Institute of Plant Biology & BRICS
-+ 2020-2021 [Evolution and Diversity](http://brockingtonlab.co.uk/team.html), Department of Plant Sciences, University of Cambridge (UK) funded by DFG
-+ 2019-2020 [Molecular Genetics and Physiology of Plants](https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html)
-+ 2018-2019 [Genetics and Genomics of Plants](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/), CeBiTec & Faculty of Biology (Bielefeld University)
-+ 2018 [Evolution and Diversity](http://brockingtonlab.co.uk/team.html), Department of Plant Sciences, University of Cambridge (UK) funded by DAAD
-+ 2015-2017 [Genome Research](https://www.genomforschung.uni-bielefeld.de/de/), CeBiTec & Faculty of Biology (Bielefeld University)
-+ 2015 [ALACRiS Theranostics GmbH](http://www.alacris.de/de)
-+ 2011-2015 [Faculty of Biology](https://www.uni-bielefeld.de/biologie/) (Bielefeld University)
++ since 2022 &emsp; Head of Technology Transfer Center 'Plant Genomics and Applied Bioinformatics'
++ since 2021 &emsp; Professor at TU Braunschweig, [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb), Institute of Plant Biology & BRICS
++ 2020-2021 &emsp; [Evolution and Diversity](http://brockingtonlab.co.uk/team.html), Department of Plant Sciences, University of Cambridge (UK) funded by DFG
++ 2019-2020 &emsp; [Molecular Genetics and Physiology of Plants](https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html)
++ 2018-2019 &emsp; [Genetics and Genomics of Plants](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/), CeBiTec & Faculty of Biology (Bielefeld University)
++ 2018 &emsp; [Evolution and Diversity](http://brockingtonlab.co.uk/team.html), Department of Plant Sciences, University of Cambridge (UK) funded by DAAD
++ 2015-2017 &emsp; [Genome Research](https://www.genomforschung.uni-bielefeld.de/de/), CeBiTec & Faculty of Biology (Bielefeld University)
++ 2015 &emsp; [ALACRiS Theranostics GmbH](http://www.alacris.de/de)
++ 2011-2015 &emsp; [Faculty of Biology](https://www.uni-bielefeld.de/biologie/) (Bielefeld University)
 
 ### Education
 + 05/2019: Dr. rer. nat. (very good), Faculty of Biology (Bielefeld University), thesis:<i>De novo</i> Nd-1 genome assembly reveals genomic diversity of <i>Arabidopsis thaliana</i> and facilitates genome-wide non-canonical splice site analyses across plant species ([Dissertation Boas Pucker](http://doi.org/10.4119/unibi/2935794))
@@ -133,13 +133,13 @@ Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinforma
 
 
 ### Memberships
-+ 06/2023-present Verband Biologie, Biowiss. und Biomed in Deutschland e.V (VBIO)
-+ 05/2023-present DSI Scientific Network
-+ 01/2023-present German Association for Synthetic Biology (GASB)
-+ 07/2020-present European Society of Evolutionary Biology (ESEB)
-+ 02/2020-present [Plantae](https://community.plantae.org/user/bpucker) / American Society of Plant Biologists (ASPB)
-+ 12/2019-present German Society for Plant Sciences (DBG)
-+ 2019-present bts e.V. (biotechnology students' initiative)
++ 06/2023-present &emsp; Verband Biologie, Biowiss. und Biomed in Deutschland e.V (VBIO)
++ 05/2023-present &emsp; DSI Scientific Network
++ 01/2023-present &emsp; German Association for Synthetic Biology (GASB)
++ 07/2020-present &emsp; European Society of Evolutionary Biology (ESEB)
++ 02/2020-present &emsp; [Plantae](https://community.plantae.org/user/bpucker) / American Society of Plant Biologists (ASPB)
++ 12/2019-present &emsp; German Society for Plant Sciences (DBG)
++ 2019-present &emsp; bts e.V. (biotechnology students' initiative)
 + Freunde des Braunschweiger Botanischen Gartens e.V.
 + Braunschweiger Hochschulbund e.V. (BHB)
 + Deutscher Hochschul Verband (DHV)
