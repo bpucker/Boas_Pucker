@@ -36,7 +36,11 @@
 
 
 <h3 id="funding">Awards, funding, and scholarships</h3>
-
++ 2024 Financial Support for SynBio2024
++ 2023 DFG Research Project ['Phylogenomic elucidation of withanolide biosynthesis in Nightshade plants'](https://gepris.dfg.de/gepris/projekt/516566273)
++ 2023 Financial support for iGEM2023
++ 2022 Freiraum2022 Fellowship for ['Data Literacy in Genome Research'](https://www.tu-braunschweig.de/en/ifp/pbb/teaching/dalip)
++ 2022 Financial support for iGEM2023
 + 2019 DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
 + 2019 Research Fellowship for Plant Genomics and Bioinformatics
 + 2018 Fellowship for Digital Innovations in Academic Teaching([digital laboratory notebook](https://www.stifterverband.org/digital-lehrfellows/2017/pucker))
