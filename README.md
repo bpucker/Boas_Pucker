@@ -1,4 +1,4 @@
-[Publications](https://github.com/bpucker/Boas_Pucker#publications) - [Research Interests](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#research-interests) - [Funding](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#awards-funding-and-scholarships) - [CV](https://github.com/bpucker/Boas_Pucker#cv) - [Editor/Reviewer](https://github.com/bpucker/Boas_Pucker#editor-activity) - [Teaching](https://github.com/bpucker/Boas_Pucker#teaching) - [Science Communication](https://github.com/bpucker/Boas_Pucker#science-communication)
+[Publications](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#publications) - [Research Interests](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#research-interests) - [Funding](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#awards-funding-and-scholarships) - [CV](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#cv) - [Editor/Reviewer](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#editorreviewer-activity) - [Teaching](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#teaching) - [Science Communication](https://github.com/bpucker/Boas_Pucker/edit/master/README.md#science-communication)
 
 
 # Prof. Dr. Boas Pucker
@@ -75,18 +75,8 @@ Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, 
 + 2014 [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html)
 
 
-
-
-
-
-
-
-<br>
-
-
-
-<h3 id="teaching">Teaching</h3>
-<h4 id="courses">Courses</h4>
+## Teaching
+### Courses
 <p>The <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=64858304">ekVV</a> provides an overiew of my courses (German & English) at Bielefeld University.
 In addition, I am teaching through supervison of iGEM <a href="https://www.igem-bielefeld.de/">Bielefeld-CeBiTec</a> teams as outlined above.
 My projects about digitial innovations in higher education were kindly supported by a fellowship from the <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">Stifterverband</a>.
@@ -115,7 +105,7 @@ Here is a list of my courses with links to slides and data sets:
 </li>
 </ul>
 
-<h4 id="iGEM">Synthetic Biology (iGEM)</h4>
+### Synthetic Biology (iGEM)
 <p>iGEM is the largest competition for synthetic biology. Student teams from all over the world participate and present their project at the annual Giant Jamboree.
 <a href="https://www.igem-bielefeld.de/">iGEM Bielefeld-CeBiTec</a> participates in <a href="https://igem.org/Main_Page">iGEM</a> since 2010.
 I was involved in 
@@ -128,12 +118,8 @@ I was involved in
 <a href="https://2019.igem.org/Team:Thessaly">Thessaly 2019</a>.
 <a href="https://after.igem.org/">After iGEM</a> selected me as 'iGEMer of the month' in September 2019.</p>
 
-<br>
 
-<br>
-
-
-<h3 id="CV">CV</h3>
+## CV
 <h4 id="positions">Positions</h4>
 <ul>
 <li>2019-2020 <a href="https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html">Molecular Genetics and Physiology of Plants</a></li>
@@ -164,22 +150,15 @@ I was involved in
 
 <br>
 
-<h4 id="Editor">Editor Activity</h4>
-
+## Editor/Reviewer Activity
 + Member of the [Editorial Board](https://bmcgenomics.biomedcentral.com/about/editorial-board) of BMC Genomics (<i>Plant Genomics</i> section).
 + Associate Editor at Frontiers ([loop profile](https://loop.frontiersin.org/people/456636/overview))
-
-
-<br>
-
-<h4 id="reviewer">Reviewer Activities</h4>
-A detailed list of my reviewer activities is available via [WebOfScience](https://publons.com/researcher/1008011/boas-pucker/) or [ORCID](https://orcid.org/0000-0002-3321-7471). Here is a list of selected journals and communities which I supported with reviews:
++ Reviewer Activities: A detailed list of my reviewer activities is available via [WebOfScience](https://publons.com/researcher/1008011/boas-pucker/) or [ORCID](https://orcid.org/0000-0002-3321-7471). Here is a list of selected journals and communities which I supported with reviews:
 Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinformatics, GigaScience, Horticultural Research, Journal of Experimental Botany, Molecular Plant, BMC Plant Biology, BMC Genomics, Frontiers in Plant Sciences, Molecular Biology Reports, Scientific Reports, PeerJ, Plant Cell Reports, PLOS ONE, Communications Biology, Journal of Integrative Plant Biology (JIPB), Theoretical and Applied Genetics (TAAG), pyOpenSci, Methods in Ecology and Evolution
 
 
 
-<br><br>
-<h4 id="memberships">Memberships</h4>
+### Memberships
 + 06/2023-present Verband Biologie, Biowiss. und Biomed in Deutschland e.V (VBIO)
 + 05/2023-present DSI Scientific Network
 + 01/2023-present German Association for Synthetic Biology (GASB)
@@ -191,19 +170,13 @@ Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinforma
 + Braunschweiger Hochschulbund e.V. (BHB)
 + Deutscher Hochschul Verband (DHV)
 
-
-<br><br>
-<h3 id="scicomm">Science Communication</h3>
-<ul>
-<li><a href="https://github.com/bpucker/FlavonoidFriday">FlavonoidFriday</a></li>
-<li><a href="https://github.com/bpucker/MybMonday">MybMonday</a></li>
-</ul>
+## Science Communication
++ [FlavonoidFriday](https://github.com/bpucker/FlavonoidFriday): Novel findings about the flavonoid biosynthesis are shared via social media on a weekly basis. Details about these posts are available in the corresponding GitHub repository.
++ [MybMonday](https://github.com/bpucker/MybMonday): Interesting facts about the R2R3-MYB transcription factor family is shared via social media on a weekly basis. Details about these posts are available in the corresponding GitHub repository.
 
 
 
-
-<h3 id="publications">Publications</h3>
-
+## Publications
 A full list of publications is available at my [Google scholar profile](https://scholar.google.com/citations?user=1CbAO2UAAAAJ&hl=en).
 
 <ul>
