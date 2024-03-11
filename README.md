@@ -1,33 +1,19 @@
-<p>
-<a href="https://github.com/bpucker/Boas_Pucker#publications"><b>Publications</b></a> 
-- <a href="https://github.com/bpucker/Boas_Pucker#awards-funding-and-scholarships"><b>Funding</b></a>
-- <a href="https://github.com/bpucker/Boas_Pucker#research-interests"><b>Research Interests</b></a>
-- <a href="https://github.com/bpucker/Boas_Pucker#cv"><b>CV</b></a>
-- <a href="https://github.com/bpucker/Boas_Pucker#editor-activity"><b>Editor/Reviewer</b></a>
-- <a href="https://github.com/bpucker/Boas_Pucker#teaching"><b>Teaching</b></a>
-- <a href="https://github.com/bpucker/Boas_Pucker#science-communication"><b>Science Communication</b></a>
-</p>
+[Publications](https://github.com/bpucker/Boas_Pucker#publications) - [Funding](https://github.com/bpucker/Boas_Pucker#awards-funding-and-scholarships) - [Research Interests](https://github.com/bpucker/Boas_Pucker#research-interests) - [CV](https://github.com/bpucker/Boas_Pucker#cv) - [Editor/Reviewer](https://github.com/bpucker/Boas_Pucker#editor-activity) - [Teaching](https://github.com/bpucker/Boas_Pucker#teaching) - [Science Communication](https://github.com/bpucker/Boas_Pucker#science-communication)
 
 
-
-<h1>Prof. Dr. Boas Pucker</h1>
+# Prof. Dr. Boas Pucker
 <img src="https://www.cebitec.uni-bielefeld.de/~bpucker/BP.jpg" alt="foto" width="20%" height="20%" align="right">
++ My group: <a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology & BRICS, TU Braunschweig, Germany)
++ email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de
++ Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a>
++ WebOfScience: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a>
++ ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a>
++ Twitter: <a href="https://twitter.com/boas_pucker">@boas_pucker</a>
++ Github: <a href="https://github.com/bpucker">bpucker</a>
++ LinkedIn: <a href="https://www.linkedin.com/in/boas-pucker-80aaa411b/">Boas Pucker</a>
++ Mastodon: <a href="https://mastodon.social/@boas_pucker">Boas Pucker</a>
++ BlueSky: <a href="https://bsky.app/profile/bpucker.bsky.social">Boas Pucker</a>
 
-
-
-<ul>
-<li>My group: <a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology & BRICS, TU Braunschweig, Germany)
-</li>
-<li>email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de</li>
-<li>Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a></li>
-<li>WebOfScience: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a></li>
-<li>ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a></li>
-<li>Twitter: <a href="https://twitter.com/boas_pucker">@boas_pucker</a></li>
-<li>Github: <a href="https://github.com/bpucker">bpucker</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/boas-pucker-80aaa411b/">Boas Pucker</a></li>
-<li>Mastodon: <a href="https://mastodon.social/@boas_pucker">Boas Pucker</a></li>
-<li>BlueSky: <a href="https://bsky.app/profile/bpucker.bsky.social">Boas Pucker</a></li>
-</ul>
 
 <p><b>Collaborations</b>: I am interested in collaborations involving genomics or bioinformatic analyses and matching the research interests of my group. Please send me an email.</p>
 <p><b>Reviews</b>: Review requests from high quality open access journals are welcome if they match 
@@ -206,6 +192,7 @@ I was involved in
 <br>
 
 <h4 id="Editor">Editor Activity</h4>
+
 + Member of the [Editorial Board](https://bmcgenomics.biomedcentral.com/about/editorial-board) of BMC Genomics (<i>Plant Genomics</i> section).
 + Associate Editor at Frontiers ([loop profile](https://loop.frontiersin.org/people/456636/overview))
 
