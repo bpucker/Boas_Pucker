@@ -40,6 +40,13 @@ Selected publications:
 
 ### Plant Genomics: Long Read Sequencing
 Plant genome sequences contain the blue print for all proteins (enzymes). Sequencing and investigating genomes is an effective approach to reveal the biochemical potential of plants. Especially the correlation of genomic data (DNA) with transcriptomic (RNA) and metabolomic (chemical compounds) data sets allows the identification of biosynthesis pathways. Rapid developments of long read sequencing technologies allow the cost-effective analysis of large plant genomes. Sequencers distributed by Oxford Nanopore Technologies (ONT) are portable and can even be operated in the field. This so called nanopore sequencing approach analysis individual DNA strands. We use this technology to resolve the genome sequences of of important plant species. This is also a great opportunity for students to contribute to a genome sequencing project.
+These genome sequencing projects have been conducted in my group or are ongoing:
++ _Ceratophyllum submersum_ (soft hornwort) is an aquatic plant that is very common in (eutrophic) ponds in Germany. We analyzed the plastome (subgenome of the chloroplast) of this species to determine its relationship to other plant species (Meckoni et al., 2023).
++ _Digitalis purpurea_ (floxglove) is known as a medicinal plant, but also appears frequently as horticultural plant in gardens due to its colorfull and large flowers. We are interested in the flavonoid biosynthesis of this plant species with a particular focus on anthocyanins which are responsible for the redish pigmentation and also the name of the species. Read about the details in our Preprint on bioRxiv (Wolff, Friedhoff, Horz et al., 2024).
++ _Urtica dioica_ (stinging nettle) was the medicinal plant of the year in 2022. It is well known for a high flavonoid content and often used to produce tea.
++ _Aquilegia vulgaris_ (common columbine) is a horticultural plant that can be seen in many gardens showing a variety of flower colors. We are interested to understand the molecular basis of different flower colors.
++ _Victoria cruziana_ (giant water lily) is the biggest attraction in the Botanical Garden in Braunschweig. The plant is famous for huge floating leaves that can carry the weight of a small child. It produces beautiful flowers that open at night. We are interested to understand the flavonoid biosynthesis in this aquatic plant species.
++ _Rubus armeniacus_ (blackberry) is a fruit producing plant species that is common throughout Germany. It is well known for the black and sweet fruits that it produces. We are interested to study the formation of anthocyanins, a subgroup of the flavonoids, in blackberry.
 
 
 ### Applied Bioinformatics
@@ -51,8 +58,7 @@ Specific biological questions require the development of dedicated tools. My gro
 + bHLH_annotator (E): This tool enables the automatic identification and annotation of bHLHs in a novel transcriptome/genome sequence assembly of a plant species. The identified candidates are functionally annotated based on orthology to previously characterized sequences. Read the [bHLH_annotator paper](https://doi.org/10.1186/s12864-023-09877-2) or download the tool from [GitHub](https://github.com/bpucker/bHLH_annotator).
 
 
-
-Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, <i>Beta vulgaris</i>, <i>Beta coroliflora</i>, <i>Beta lomatogona</i>, <i>Brassica napus</i>, <i>Cicer arietinum</i>, <i>Croton tiglium</i>, <i>Dioscorea dumetorum</i>, <i>Kewa caespitosa</i>, <i>Macarthuria australis</i>, <i>Medicago truncatula</i>, <i>Musa acuminata</i>, <i>Pharnaceum exiguum</i>, <i>Simmondsia chinensis</i>, <i>Vitis vinifera</i> various other plant species especially members of the Caryophyllales.
+Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, <i>Beta vulgaris</i>, <i>Beta coroliflora</i>, <i>Beta lomatogona</i>, <i>Brassica napus</i>, <i>Cicer arietinum</i>, <i>Croton tiglium</i>, <i>Digitalis purpurea</i>, <i>Dioscorea dumetorum</i>, <i>Kewa caespitosa</i>, <i>Macarthuria australis</i>, <i>Medicago truncatula</i>, <i>Musa acuminata</i>, <i>Pharnaceum exiguum</i>, <i>Simmondsia chinensis</i>, <i>Urtica dioica</i>, <i>Vitis vinifera</i> various other plant species especially members of the Caryophyllales.
 
 
 ## Awards, funding, and scholarships
