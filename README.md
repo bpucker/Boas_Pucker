@@ -152,14 +152,30 @@ Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinforma
 
 ## Publications
 A full list of publications is available at my [Google scholar profile](https://scholar.google.com/citations?user=1CbAO2UAAAAJ&hl=en).
++ x
++ 
++ 
++ 
++ 
++
 
+**2022**
++ Movahedi A, Wei H, Pucker B, Sun W, Li W, Yang L, Zhuge Q (2022). Regulation of poplar isoprenoid biosynthesis by methylerythritol phosphate and mevalonic acid pathways interactions. Front. Plant Sci. 13:968780. doi: [10.3389/fpls.2022.968780](https://doi.org/10.3389/fpls.2022.968780).
++ Rajput, R., Tyagi, S., Naik, J. Pucker, B., Stracke, R., Pandey, A. The R2R3-MYB gene family in Cicer arietinum: genome-wide identification and expression analysis leads to functional characterization of proanthocyanidin biosynthesis regulators in the seed coat. Planta 256, 67 (2022). doi: [10.1007/s00425-022-03979-z](https://doi.org/10.1007/s00425-022-03979-z).
++ Mengist MF, Grace MH, Mackey T, Munoz B, Pucker B, Bassil N, Luby C, Ferruzzi M, Lila MA and Iorizzo M (2022) Dissecting the genetic basis of bioactive metabolites and fruit quality traits in blueberries (Vaccinium corymbosum L.). Front. Plant Sci. 13:964656. doi: [10.3389/fpls.2022.964656](https://doi.org/10.3389/fpls.2022.964656).
++ Schilbert H. M.*, Pucker B.*, Ries D., Viehöver P., Micic Z., Dreyer F., Beckmann K., Wittkop B., Weisshaar B., Holtgräwe D.. Mapping-by-sequencing reveals genomic regions associated with seed quality parameters in Brassica napus. Genes 2022, 13(7), 1131; doi: [10.3390/genes13071131](https://doi.org/10.3390/genes13071131).
++ Ballmann, R.; Hotop, S.; Bertoglio, F.; Steinke, S.; Heine, P.A.; Chaudhry, M.; Jahn, D.; Pucker, B.; Baldanti, F.; Piralla, A.; Schubert, M.; Čičin-Šain, L.; Hust, M.; Dübel, S. ORFeome Phage Display Reveals a Major Immunogenic Epitope on the S2 Subdomain of SARS-Cov-2 Spike Protein. Viruses 2022, 14, 1326. doi: [10.3390/v14061326](https://doi.org/10.3390/v14061326).
++ Pucker B (2022). Automatic identification and annotation of MYB gene family members in plants. BMC Genomics 23, 220 (2022). doi: [10.1186/s12864-022-08452-5](https://doi.org/10.1186/s12864-022-08452-5).
++ Pucker B, Irisarri I, de Vries J and Xu B (2022). Plant genome sequence assembly in the era of long reads: Progress, challenges and future directions. Quantitative Plant Biology, 3, E5. doi: [10.1017/qpb.2021.18](https://www.doi.org/10.1017/qpb.2021.18).
++ Pucker B & Selmar D (2022). Biochemistry and Molecular Basis of Intracellular Flavonoid Transport in Plants. Plants 2022, 11, 963. doi: [10.3390/plants11070963](https://doi.org/10.3390/plants11070963).
++ Sielemann K, Pucker B, Schmidt N, Viehoever P, Weisshaar B, Heitkam T, Holtgraewe D (2021). Complete pan-plastome sequences enable high resolution phylogenetic classification of sugar beet and closely related crop wild relatives. BMC Genomics 23, 113 (2022). doi: [10.1186/s12864-022-08336-8](https://doi.org/10.1186/s12864-022-08336-8).
 
 
 <ul>
 
 <li>
-<b>Pucker B</b> & Brockington S F (2021). The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak. 
-bioRxiv 2021.11.16.468878; doi: https://doi.org/10.1186/s12864-022-08947-1. <br>
+<b>Pucker B</b> & Brockington S F (2022). The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak. 
+BMC Genomics 23, 739. doi: https://doi.org/10.1186/s12864-022-08947-1. <br>
 <a href="https://doi.org/10.1186/s12864-022-08947-1">full text</a>
 <a href="https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-022-08947-1.pdf">PDF</a>
 </li>
