@@ -38,7 +38,11 @@
 
 
 <h3 id="publications">Publications</h3>
+
+A full list of publications is available at my [Google scholar profile](https://scholar.google.com/citations?user=1CbAO2UAAAAJ&hl=en).
+
 <ul>
+
 
 <li>
 <b>Pucker B</b> & Brockington S F (2021). The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak. 
@@ -522,18 +526,13 @@ BMC Plant Biol. 14: 249. doi:10.1186/s12870-014-0249-8.<br>
 
 
 <h3 id="funding">Awards, funding, and scholarships</h3>
-<ul>
-<li>2019 <a href="https://www.dfg.de/">DFG</a> Research Fellowship for 'Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'
-in <a href="https://www.plantsci.cam.ac.uk/research/sambrockington">Evolution and Diversity</a>, Department of Plant Sciences, University of Cambridge, UK
-</li>
-<li>2019 Research Fellowship for Plant Genomics and Bioinformatics</li>
-<li>2018 <a href="https://www.stifterverband.org/digital-lehrfellows-nrw">Fellowship for Digital Innovations in Academic Teaching</a> 
-(<a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">project description in German</a>)
-</li>
-<li>2018 <a href="https://www.daad.de/en/">DAAD scholarship</a></li>
-<li>2015 Award for excellent master's thesis (<a href="https://www.im.nrw/friedrich-wilhelm-helweg-stiftung">Friedrich Wilhelm Helweg Foundation</a>)</li>
-<li>2014 <a href="https://www.deutschlandstipendium.de/de/english-1700.html">Deutschlandstipendium</a></li>
-</ul>
+
++ 2019 DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
++ 2019 Research Fellowship for Plant Genomics and Bioinformatics
++ 2018 Fellowship for Digital Innovations in Academic Teaching([digital laboratory notebook](https://www.stifterverband.org/digital-lehrfellows/2017/pucker))
++ 2018 DAAD scholarship (University of Cambridge, UK)
++ 2015 Award for excellent master's thesis ([Friedrich Wilhelm Helweg Foundation](https://www.im.nrw/friedrich-wilhelm-helweg-stiftung))
++ 2014 [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html)
 
 
 <h3 id="research_interests">Research Interests</h3>
