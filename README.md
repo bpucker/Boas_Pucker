@@ -154,10 +154,26 @@ Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinforma
 A full list of publications is available at my [Google scholar profile](https://scholar.google.com/citations?user=1CbAO2UAAAAJ&hl=en).
 + x
 + 
-+ 
-+ 
-+ 
-+
+
+**2023**
++ Schmidt N., Sielemann K., Breitenbach S., Fuchs J., Pucker B., Weisshaar B., Holtgräwe D., Heitkam T. (2023). Repeat turnover meets stable chromosomes: repetitive DNA sequences mark speciation and gene pool boundaries in sugar beet and wild beets. Plant J. doi: [10.1111/tpj.16599](https://doi.org/10.1111/tpj.16599).
++ Thoben C. and Pucker B. (2023). Automatic annotation of the bHLH gene family in plants. BMC Genomics 24, 780 (2023). doi: [10.1186/s12864-023-09877-2](https://doi.org/10.1186/s12864-023-09877-2).
++ Wolff, K.; Friedhoff, R.; Schwarzer, F.; Pucker, B. (2023). Data Literacy in Genome Research. Journal of Integrative Bioinformatics, 2023, pp. 20230033. doi: [10.1515/jib-2023-0033](https://doi.org/10.1515/jib-2023-0033).
++ Sielemann, K.*, Pucker, B.*, Orsini, E. et al. Genomic characterization of a nematode tolerance locus in sugar beet. BMC Genomics 24, 748 (2023). doi: [10.1186/s12864-023-09823-2](https://doi.org/10.1186/s12864-023-09823-2).
++ Rempel A., Choudhary N. and Pucker B. (2023). KIPEs3: Automatic annotation of biosynthesis pathways. PLOS ONE 18(11): e0294342. doi: [10.1371/journal.pone.0294342](https://doi.org/10.1371/journal.pone.0294342).
++ Naik J., Tyagi S., Rajput R., Kumar P., Pucker B., Bisht N. C., Misra P., Stracke R., Pandey A. Flavonols have opposite effects on the interrelated glucosinolate and camalexin biosynthetic pathways in Arabidopsis thaliana, Journal of Experimental Botany, 2023;, erad391, doi: [10.1093/jxb/erad391](https://doi.org/10.1093/jxb/erad391).
++ Natarajan, S., Pucker, B. & Srivastava, S. Genomic and transcriptomic analysis of camptothecin producing novel fungal endophyte: Alternaria burnsii NCIM 1409. Sci Rep 13, 14614 (2023). doi: [10.1038/s41598-023-41738-6](https://doi.org/10.1038/s41598-023-41738-6).
++ Movahedi A, Pucker B and Kadkhodaei S (2023) Editorial: Genomics and gene editing of orphan plants. Front. Plant Sci. 14:1277625. doi: [10.3389/fpls.2023.1277625](https://doi.org/10.3389/fpls.2023.1277625).
++ Meckoni, S.N., Nass, B. & Pucker, B. (2023). Phylogenetic placement of Ceratophyllum submersum based on a complete plastome sequence derived from nanopore long read sequencing data. BMC Res Notes 16, 187. doi: [10.1186/s13104-023-06459-z](https://doi.org/10.1186/s13104-023-06459-z).
++ Siadjeu, C. & Pucker, B. (2023). Medicinal plant genomics. BMC Genomics 24, 429 (2023). doi: [10.1186/s12864-023-09542-8](https://doi.org/10.1186/s12864-023-09542-8).
++ Feng, T.*, Pucker, B.*, Kuang, T.*, Song B.*, Yang Y., Lin N., Zhang H., Moore M.J., Brockington S.F., Wang Q., Deng T., Wang H. and Sun H. (2023). The genome of the glasshouse plant noble rhubarb (Rheum nobile) provides a window into alpine adaptation. Commun Biol 6, 706 (2023). doi: [10.1038/s42003-023-05044-1](https://doi.org/10.1038/s42003-023-05044-1).
++ Sielemann K., Schmidt N., Guzik J., Kalina N., Pucker B., Viehöver P., Breitenbach S., Weisshaar B., Heitkam T., Holtgräwe D. (2023). Pangenome of cultivated beet and crop wild relatives reveals parental relationships of a tetraploid wild beet. bioRxiv 2023.06.28.546919; doi: [10.1101/2023.06.28.546919](https://doi.org/10.1101/2023.06.28.546919).
++ Bartas M., Volna A., Cerven J. and Pucker B. (2023). Identification of annotation artifacts concerning the CHALCONE SYNTHASE (CHS). BMC Res Notes 16, 109 (2023). doi: [10.1186/s13104-023-06386-z](https://doi.org/10.1186/s13104-023-06386-z).
++ Busche M., Pucker B., Weisshaar B., Stracke R. Three R2R3-MYB transcription factors from banana (Musa spp.) activate structural anthocyanin biosynthesis genes as part of an MBW complex. BMC Res Notes 16, 103 (2023). doi: [10.1186/s13104-023-06375-2](https://doi.org/10.1186/s13104-023-06375-2).
++ Marin M. F. & Pucker B. (2023). Genetic factors explaining anthocyanin pigmentation differences. bioRxiv 2023.06.05.543820; doi: [10.1101/2023.06.05.543820](https://doi.org/10.1101/2023.06.05.543820).
++ Albert N. W., Iorizzo M., Mengist M.F., Montanari S., Zalapa J., Maule A., Edger P. P., Yocca A. E., Platts A. E., Pucker B., Espley R. V. (2023). Vaccinium as a comparative system for understanding of complex flavonoid accumulation profiles and regulation in fruit. Plant Physiology. doi: [10.1093/plphys/kiad250](https://doi.org/10.1093/plphys/kiad250).
++ Göttl V.L., Pucker B., Wendisch V.F., Henke N.A. (2023). Screening of structurally distinct lycopene β-cyclases for production of the cyclic C40 carotenoids β-carotene and astaxanthin by Corynebacterium glutamicum. Journal of Agricultural and Food Chemistry. doi: [10.1021/acs.jafc.3c01492](https://doi.org/10.1021/acs.jafc.3c01492).
++ Pucker B & Iorizzo M (2023). Apiaceae FNS I originated from F3H through tandem gene duplication. PLOS ONE 18(1): e0280155. doi: [10.1371/journal.pone.0280155](https://doi.org/10.1371/journal.pone.0280155).
 
 **2022**
 + Movahedi A, Wei H, Pucker B, Sun W, Li W, Yang L, Zhuge Q (2022). Regulation of poplar isoprenoid biosynthesis by methylerythritol phosphate and mevalonic acid pathways interactions. Front. Plant Sci. 13:968780. doi: [10.3389/fpls.2022.968780](https://doi.org/10.3389/fpls.2022.968780).
@@ -169,16 +185,11 @@ A full list of publications is available at my [Google scholar profile](https://
 + Pucker B, Irisarri I, de Vries J and Xu B (2022). Plant genome sequence assembly in the era of long reads: Progress, challenges and future directions. Quantitative Plant Biology, 3, E5. doi: [10.1017/qpb.2021.18](https://www.doi.org/10.1017/qpb.2021.18).
 + Pucker B & Selmar D (2022). Biochemistry and Molecular Basis of Intracellular Flavonoid Transport in Plants. Plants 2022, 11, 963. doi: [10.3390/plants11070963](https://doi.org/10.3390/plants11070963).
 + Sielemann K, Pucker B, Schmidt N, Viehoever P, Weisshaar B, Heitkam T, Holtgraewe D (2021). Complete pan-plastome sequences enable high resolution phylogenetic classification of sugar beet and closely related crop wild relatives. BMC Genomics 23, 113 (2022). doi: [10.1186/s12864-022-08336-8](https://doi.org/10.1186/s12864-022-08336-8).
++ Pucker B & Brockington S F (2022). The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak. BMC Genomics 23, 739. doi: [10.1186/s12864-022-08947-1](https://doi.org/10.1186/s12864-022-08947-1).
 
 
+**2014-2021**
 <ul>
-
-<li>
-<b>Pucker B</b> & Brockington S F (2022). The evidence for anthocyanins in the betalain-pigmented genus Hylocereus is weak. 
-BMC Genomics 23, 739. doi: https://doi.org/10.1186/s12864-022-08947-1. <br>
-<a href="https://doi.org/10.1186/s12864-022-08947-1">full text</a>
-<a href="https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-022-08947-1.pdf">PDF</a>
-</li>
 
 <li>
 <b>Pucker B</b> (2021). Automatic identification and annotation of MYB gene family members in plants. 
