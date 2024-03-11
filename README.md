@@ -3,23 +3,19 @@
 
 # Prof. Dr. Boas Pucker
 <img src="https://www.cebitec.uni-bielefeld.de/~bpucker/BP.jpg" alt="foto" width="20%" height="20%" align="right">
-+ My group: <a href="https://www.tu-braunschweig.de/en/ifp/pbb">Plant Biotechnology and Bioinformatics</a> (Institute of Plant Biology & BRICS, TU Braunschweig, Germany)
+
++ My group: [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb) (Institute of Plant Biology & BRICS, TU Braunschweig, Germany)
 + email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de
-+ Google Scholar: <a href="https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao">Boas Pucker</a>
-+ WebOfScience: <a href="https://publons.com/researcher/1008011/boas-pucker/">Boas Pucker</a>
-+ ORCID: <a href="https://orcid.org/0000-0002-3321-7471">0000-0002-3321-7471</a>
-+ Twitter: <a href="https://twitter.com/boas_pucker">@boas_pucker</a>
-+ Github: <a href="https://github.com/bpucker">bpucker</a>
-+ LinkedIn: <a href="https://www.linkedin.com/in/boas-pucker-80aaa411b/">Boas Pucker</a>
-+ Mastodon: <a href="https://mastodon.social/@boas_pucker">Boas Pucker</a>
-+ BlueSky: <a href="https://bsky.app/profile/bpucker.bsky.social">Boas Pucker</a>
++ Google Scholar: [Boas Pucker](https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao)
++ WebOfScience: [Boas Pucker](https://publons.com/researcher/1008011/boas-pucker/)
++ ORCID: [0000-0002-3321-7471](https://orcid.org/0000-0002-3321-7471)
++ Twitter: [@boas_pucker](https://twitter.com/boas_pucker)
++ Github: [bpucker](https://github.com/bpucker)
++ LinkedIn: [Boas Pucker](https://www.linkedin.com/in/boas-pucker-80aaa411b/)
++ Mastodon: [Boas Pucker](https://mastodon.social/@boas_pucker)
++ BlueSky: [Boas Pucker](https://bsky.app/profile/bpucker.bsky.social)
 
-
-<p><b>Collaborations</b>: I am interested in collaborations involving genomics or bioinformatic analyses and matching the research interests of my group. Please send me an email.</p>
-<p><b>Reviews</b>: Review requests from high quality open access journals are welcome if they match 
-<a href="https://github.com/bpucker/Boas_Pucker#research-interests">my expertise</a>.
-</p>
-
+<b>Collaboration</b>: I am interested in collaborations involving genomics or bioinformatic analyses and matching the research interests of my group. Please send me an email.
 
 <h3 id="funding">Awards, funding, and scholarships</h3>
 + 2024 Financial Support for SynBio2024
