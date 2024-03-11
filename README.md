@@ -152,8 +152,13 @@ Nature Catalysis, Nature Communications, The Plant Journal, Genomics, Bioinforma
 
 ## Publications
 A full list of publications is available at my [Google scholar profile](https://scholar.google.com/citations?user=1CbAO2UAAAAJ&hl=en).
-+ x
-+ 
++ Wolff K.*, Friedhoff R.*, Horz J. M.*, Pucker B. (2024). Genome sequence of the medicinal and ornamental plant Digitalis purpurea reveals the molecular basis of flower color variation. bioRxiv 2024.02.14.580303; doi: [10.1101/2024.02.14.580303](https://doi.org/10.1101/2024.02.14.580303).
++ Pucker, B. (2024). Functional Annotation – How to Tackle the Bottleneck in Plant Genomics. Preprints. doi: [10.20944/preprints202402.0645.v1](https://www.preprints.org/manuscript/202402.0645/v1).
++ Baasner J.-S., Rempel A. Howard D., Pucker B. (2024). NAVIP: Unraveling the Influence of Neighboring Small Sequence Variants on Functional Impact Prediction. bioRxiv 596718; doi: [10.1101/596718](https://doi.org/10.1101/596718).
++ Frommann J.-F., Pucker B., Sielmann L. M., Muller C., Weisshaar B., Stracke R., Schweiger R. (2024). Metabolic fingerprinting reveals roles of Arabidopsis thaliana BGLU1, BGLU3 and BGLU4 in glycosylation of various flavonoids. bioRxiv 2024.01.30.577901; doi: [10.1101/2024.01.30.577901](https://doi.org/10.1101/2024.01.30.577901).
++ Choudhary N. & Pucker B. (2024). Conserved amino acid residues and gene expression patterns associated with the substrate preferences of the competing enzymes FLS and DFR. bioRxiv 2023.11.05.565693; doi: [10.1101/2023.11.05.565693](https://doi.org/10.1101/2023.11.05.565693).
++ Hafner, A.; DeLeo, V.; Deng, C.; Elsik, C.G.; Fleming, D.; Harrison, P.W.; Kalbfleisch, T.S.; Petry, B.; Pucker, B.; Quezada-Rodríguez, E.H.; Tuggle, C.K.; Koltes, J. Data Reuse in Agricultural Genomics Research: Present Challenges and Future Solutions. Preprints 2024, 2024010780. [10.20944/preprints202401.0780.v1](https://doi.org/10.20944/preprints202401.0780.v1).
++ Pucker, B.*, Walker-Hale, N.*, Dzurlic, J., Yim, W.C., Cushman, J.C., Crum, A., Yang, Y. and Brockington, S.F. (2024), Multiple mechanisms explain loss of anthocyanins from betalain-pigmented Caryophyllales, including repeated wholesale loss of a key anthocyanidin synthesis enzyme. New Phytol., 241: 471-489. doi: [10.1111/nph.19341](https://doi.org/10.1111/nph.19341).
 
 **2023**
 + Schmidt N., Sielemann K., Breitenbach S., Fuchs J., Pucker B., Weisshaar B., Holtgräwe D., Heitkam T. (2023). Repeat turnover meets stable chromosomes: repetitive DNA sequences mark speciation and gene pool boundaries in sugar beet and wild beets. Plant J. doi: [10.1111/tpj.16599](https://doi.org/10.1111/tpj.16599).
