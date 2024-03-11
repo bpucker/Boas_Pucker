@@ -66,7 +66,7 @@ Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, 
 + 2023 DFG Research Project ['Phylogenomic elucidation of withanolide biosynthesis in Nightshade plants'](https://gepris.dfg.de/gepris/projekt/516566273)
 + 2023 Financial support for iGEM2023
 + 2022 Freiraum2022 Fellowship for ['Data Literacy in Genome Research'](https://www.tu-braunschweig.de/en/ifp/pbb/teaching/dalip)
-+ 2022 Financial support for iGEM2023
++ 2022 Financial support for iGEM2022
 + 2019 DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
 + 2019 Research Fellowship for Plant Genomics and Bioinformatics
 + 2018 Fellowship for Digital Innovations in Academic Teaching([digital laboratory notebook](https://www.stifterverband.org/digital-lehrfellows/2017/pucker))
@@ -76,34 +76,18 @@ Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, 
 
 
 ## Teaching
-### Courses
-<p>The <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=64858304">ekVV</a> provides an overiew of my courses (German & English) at Bielefeld University.
-In addition, I am teaching through supervison of iGEM <a href="https://www.igem-bielefeld.de/">Bielefeld-CeBiTec</a> teams as outlined above.
-My projects about digitial innovations in higher education were kindly supported by a fellowship from the <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">Stifterverband</a>.
-Here is a list of my courses with links to slides and data sets:
-</p>
+### Teaching activities at TU Braunschweig
+Please see my website about courses at TU Braunschweig for latest updates: [BP teaching at TUBS](https://www.tu-braunschweig.de/en/ifp/pbb/teaching).
 
-<ul>
-</li>	
-<li>Applied Python Programming for Life Scientists<br>
-<a href="https://pub.uni-bielefeld.de/download/2920633/2920815">Paper</a>, 
-<a href="https://github.com/bpucker/APPLS">github</a>
-</li>
-<li>Applied Genome Research<br>
-<a href="https://doi.org/10.1515/jib-2019-0005">Paper</a>,
-<a href="https://github.com/bpucker/AppliedGenomeResearch">github</a>
-</li>
-<li>Molecular Methods in Genome Research<br>
-(funded by 
-<a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">'digi' fellowship</a> and 
-<a href="https://www.genomforschung.uni-bielefeld.de/en/">Genetics & Genomics of Plants</a>)<br>
-<a href="https://doi.org/10.1515/jib-2019-0005">Paper</a>,
-<a href="https://github.com/bpucker/MolecularMethodsInGenomeResearch">github</a>
-</li>
-<li>Progress in Synthetic Biology<br>
-<a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=119368540">ekVV</a>
-</li>
-</ul>
+### Teaching activities at Bielefeld University
+The [ekVV](https://ekvv.uni-bielefeld.de/kvv_publ/publ/Lehrende_Veranstaltungen.jsp?personId=64858304) provides an overiew of my courses (German & English) at Bielefeld University. In addition, I am teaching through supervison of iGEM <a href="https://www.igem-bielefeld.de/">Bielefeld-CeBiTec</a> teams as outlined above. My projects about digitial innovations in higher education were kindly supported by a fellowship from the [Stifterverband](https://www.stifterverband.org/digital-lehrfellows/2017/pucker).
+Here is a list of my courses with links to slides and data sets:
+
++ Applied Python Programming for Life Scientists ([Paper](https://pub.uni-bielefeld.de/download/2920633/2920815), [GitHub](https://github.com/bpucker/APPLS))
++ Applied Genome Research ([Paper](https://doi.org/10.1515/jib-2019-0005), [GitHub](https://github.com/bpucker/AppliedGenomeResearch))
++ Molecular Methods in Genome Research (funded by ['digi' fellowship](https://www.stifterverband.org/digital-lehrfellows/2017/pucker) and Genetics & Genomics of Plants, [Paper](https://doi.org/10.1515/jib-2019-0005), [GitHub](https://github.com/bpucker/MolecularMethodsInGenomeResearch))
++ Progress in Synthetic Biology ([ekVV](https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=119368540))
+
 
 ### Synthetic Biology (iGEM)
 <p>iGEM is the largest competition for synthetic biology. Student teams from all over the world participate and present their project at the annual Giant Jamboree.
