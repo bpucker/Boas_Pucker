@@ -103,15 +103,15 @@ iGEM is the largest competition for synthetic biology. Student teams from all ov
 + 2021 (judge); mentoring [RUBochum](https://2021.igem.org/Team:RUBochum)
 + [2022](https://2022.igem.wiki/tu-braunschweig/) (PI)
 + [2023](https://2023.igem.wiki/tu-braunschweig/) (PI)
-+ [2024 - SynBio team without iGEM participation] (PI)
++ 2024 - SynBio team without iGEM participation (PI)
 + [2025](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/igem) (PI)
 
 
 ## CV
 ### Positions
 + since 2025 &emsp; Professor at University of Bonn, [Molecular Plant Sciences](https://www.mps.uni-bonn.de), IZMB
-+ since 2022 &emsp; Head of Technology Transfer Center 'Plant Genomics and Applied Bioinformatics'
-+ since 2021 &emsp; Professor at TU Braunschweig, Plant Biotechnology and Bioinformatics, Institute of Plant Biology & BRICS
++ 2022-2025 &emsp; Head of Technology Transfer Center 'Plant Genomics and Applied Bioinformatics'
++ 2021-2025 &emsp; Professor at TU Braunschweig, Plant Biotechnology and Bioinformatics, Institute of Plant Biology & BRICS
 + 2020-2021 &emsp; [Evolution and Diversity](http://brockingtonlab.co.uk/team.html), Department of Plant Sciences, University of Cambridge (UK) funded by DFG
 + 2019-2020 &emsp; [Molecular Genetics and Physiology of Plants](https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html)
 + 2018-2019 &emsp; [Genetics and Genomics of Plants](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/), CeBiTec & Faculty of Biology (Bielefeld University)
