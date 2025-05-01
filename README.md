@@ -5,7 +5,7 @@
 <img src="https://www.cebitec.uni-bielefeld.de/~bpucker/BP.jpg" alt="foto" width="20%" height="20%" align="right">
 
 + My group: [Molecular Plant Sciences](https://www.mps.uni-bonn.de) (IZMB, University of Bonn, Germany)
-+ email: pucker{a}uni-bonn.de, bpucker{a}cebitec{dot}uni-bielefeld.de
++ email: pucker{a}uni{minus}bonn{dot}de, bpucker{a}cebitec{dot}uni-bielefeld.de
 + Google Scholar: [Boas Pucker](https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao)
 + WebOfScience: [Boas Pucker](https://publons.com/researcher/1008011/boas-pucker/)
 + ORCID: [0000-0002-3321-7471](https://orcid.org/0000-0002-3321-7471)
