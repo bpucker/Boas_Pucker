@@ -4,12 +4,11 @@
 # Prof. Dr. Boas Pucker
 <img src="https://www.cebitec.uni-bielefeld.de/~bpucker/BP.jpg" alt="foto" width="20%" height="20%" align="right">
 
-+ My group: [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb) (Institute of Plant Biology & BRICS, TU Braunschweig, Germany)
-+ email: b.pucker{a}tu-braunschweig.de, bpucker{a}cebitec{dot}uni-bielefeld.de
++ My group: [Molecular Plant Sciences](https://www.mps.uni-bonn.de) (IZMB, University of Bonn, Germany)
++ email: pucker{a}uni-bonn.de, bpucker{a}cebitec{dot}uni-bielefeld.de
 + Google Scholar: [Boas Pucker](https://scholar.google.de/citations?user=GnnyChAAAAAJ&hl=de&oi=ao)
 + WebOfScience: [Boas Pucker](https://publons.com/researcher/1008011/boas-pucker/)
 + ORCID: [0000-0002-3321-7471](https://orcid.org/0000-0002-3321-7471)
-+ Twitter: [@boas_pucker](https://twitter.com/boas_pucker)
 + Github: [bpucker](https://github.com/bpucker)
 + LinkedIn: [Boas Pucker](https://www.linkedin.com/in/boas-pucker-80aaa411b/)
 + Mastodon: [Boas Pucker](https://mastodon.social/@boas_pucker)
@@ -65,7 +64,7 @@ Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, 
 + 2024 &emsp; Financial Support for SynBio2024
 + 2023 &emsp; DFG Research Project ['Phylogenomic elucidation of withanolide biosynthesis in Nightshade plants'](https://gepris.dfg.de/gepris/projekt/516566273)
 + 2023 &emsp; Financial support for iGEM2023
-+ 2022 &emsp; Freiraum2022 Fellowship for ['Data Literacy in Genome Research'](https://www.tu-braunschweig.de/en/ifp/pbb/teaching/dalip)
++ 2022 &emsp; Freiraum2022 Fellowship for ['Data Literacy in Genome Research'](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/teaching)
 + 2022 &emsp; Financial support for iGEM2022
 + 2019 &emsp; DFG Research Fellowship for ['Understanding the convergent evolution of a complex metabolic trait, the Betalains, through comparative genomics and co-expression networks'](https://gepris.dfg.de/gepris/projekt/436841671) in Evolution and Diversity, Department of Plant Sciences, University of Cambridge, UK
 + 2019 &emsp; Research Fellowship for Plant Genomics and Bioinformatics
@@ -76,8 +75,11 @@ Studied Plant Species: <i>Arabidopsis thaliana</i>, <i>Arabidopsis halleri</i>, 
 
 
 ## Teaching
+### Teaching activities at Uni Bonn
+Please see my website about courses at Uni Bonn for latest updates: [BP teaching at UniBonn](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/teaching).
+
 ### Teaching activities at TU Braunschweig
-Please see my website about courses at TU Braunschweig for latest updates: [BP teaching at TUBS](https://www.tu-braunschweig.de/en/ifp/pbb/teaching).
+no longer available
 
 
 ### Teaching activities at Bielefeld University
@@ -91,7 +93,7 @@ Here is a list of my courses with links to slides and data sets:
 
 
 ### Synthetic Biology (iGEM)
-iGEM is the largest competition for synthetic biology. Student teams from all over the world participate and present their synthetic biology projects at the annual Giant Jamboree. I participated in the teams [iGEM Bielefeld-CeBiTec](https://www.igem-bielefeld.de/) and [iGEM TU Braunschweig](https://www.tu-braunschweig.de/en/ifp/pbb/synbio) in multiple years:
+iGEM is the largest competition for synthetic biology. Student teams from all over the world participate and present their synthetic biology projects at the annual Giant Jamboree. I participated in the teams [iGEM Bielefeld-CeBiTec](https://www.igem-bielefeld.de/) and iGEM TU Braunschweig in multiple years. Now, we are offering students at Uni Bonn the opportunity to participate:
 + [2014](http://2014.igem.org/Team:Bielefeld-CeBiTec) (team member)
 + [2016](http://2016.igem.org/Team:Bielefeld-CeBiTec) (supervision)
 + [2017](http://2017.igem.org/Team:Bielefeld-CeBiTec) (supervision)
@@ -101,12 +103,15 @@ iGEM is the largest competition for synthetic biology. Student teams from all ov
 + 2021 (judge); mentoring [RUBochum](https://2021.igem.org/Team:RUBochum)
 + [2022](https://2022.igem.wiki/tu-braunschweig/) (PI)
 + [2023](https://2023.igem.wiki/tu-braunschweig/) (PI)
++ [2024 - SynBio team without iGEM participation] (PI)
++ [2025](https://www.izmb.uni-bonn.de/en/molecular-plant-sciences/igem) (PI)
 
 
 ## CV
 ### Positions
++ since 2025 &emsp; Professor at University of Bonn, [Molecular Plant Sciences](https://www.mps.uni-bonn.de), IZMB
 + since 2022 &emsp; Head of Technology Transfer Center 'Plant Genomics and Applied Bioinformatics'
-+ since 2021 &emsp; Professor at TU Braunschweig, [Plant Biotechnology and Bioinformatics](https://www.tu-braunschweig.de/en/ifp/pbb), Institute of Plant Biology & BRICS
++ since 2021 &emsp; Professor at TU Braunschweig, Plant Biotechnology and Bioinformatics, Institute of Plant Biology & BRICS
 + 2020-2021 &emsp; [Evolution and Diversity](http://brockingtonlab.co.uk/team.html), Department of Plant Sciences, University of Cambridge (UK) funded by DFG
 + 2019-2020 &emsp; [Molecular Genetics and Physiology of Plants](https://www.ruhr-uni-bochum.de/mgpp/Seiten_en/index_e.html)
 + 2018-2019 &emsp; [Genetics and Genomics of Plants](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/ggp/), CeBiTec & Faculty of Biology (Bielefeld University)
